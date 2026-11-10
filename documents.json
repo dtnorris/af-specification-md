@@ -1,0 +1,3974 @@
+{
+  "schema": "af-specification-documents/v1",
+  "files": [
+    {
+      "path": "Adventure_Catalog_Editorial_Specification_Rev_2.0.md",
+      "version": "Revision 2.0 --- Draft",
+      "mode": "100644",
+      "bytes": 14474,
+      "sha256": "f07aafb6240be0a4fd43f03bf8e6cdf3450a1980f05073511661df5d4b7197ce",
+      "sections": [
+        {
+          "level": 1,
+          "heading": "AdventureFinder",
+          "start": 0,
+          "end": 19,
+          "sha256": "30345670bacc42ce1b053eb3eac17951b0ad265baff45d9014ef6f36e982c4e3"
+        },
+        {
+          "level": 1,
+          "heading": "Adventure Catalog Editorial Specification",
+          "start": 19,
+          "end": 14474,
+          "sha256": "415513facf6542837ff569cc1ab7f802ed3f50af4bcdab4466b2f7aab0727801"
+        },
+        {
+          "level": 2,
+          "heading": "Revision 2.0 --- Draft",
+          "start": 64,
+          "end": 206,
+          "sha256": "9f3d832fb016ae252127a6187a4bca791eb6f40c29adfd5d3060e9920e4e6813"
+        },
+        {
+          "level": 2,
+          "heading": "1. Purpose",
+          "start": 206,
+          "end": 893,
+          "sha256": "2a1fed79850e0910fca8561a57af1680a2fa7a1bfbadc348fa4ff25ef72521b7"
+        },
+        {
+          "level": 2,
+          "heading": "2. Canonical Schema",
+          "start": 893,
+          "end": 2136,
+          "sha256": "b2eaf0111f499cb6a3adf75bfce11e079b84abf3a504f6a09a9e0e290b6b58d2"
+        },
+        {
+          "level": 2,
+          "heading": "3. Core Catalog Principles",
+          "start": 2136,
+          "end": 3767,
+          "sha256": "fdec1d68fa0b67e6df68749b52474a490291de31959813eaf5d1a0ad0654c4aa"
+        },
+        {
+          "level": 3,
+          "heading": "3.1 Stable Identity",
+          "start": 2167,
+          "end": 2493,
+          "sha256": "7f093ab28693829f0b0da465891a1da10ba2a6f090c1735051526999a785bb63"
+        },
+        {
+          "level": 3,
+          "heading": "3.2 Published Adventure Boundaries",
+          "start": 2493,
+          "end": 2905,
+          "sha256": "37cf9029e30deff052bc5d03e82a9c1ee43e84d052f6ad97c4dbbe861bed059b"
+        },
+        {
+          "level": 3,
+          "heading": "3.3 Factual Catalog, Separate Analysis",
+          "start": 2905,
+          "end": 3513,
+          "sha256": "c503778047fdfcd4f092ab77d3d7ee754b4db5114329939b889676d5799a5c8d"
+        },
+        {
+          "level": 3,
+          "heading": "3.4 Preserve Provenance",
+          "start": 3513,
+          "end": 3767,
+          "sha256": "dee1a18767a956daa0624d4c19e64cfed4b24c49f08b99475a1e2aabcba76c51"
+        },
+        {
+          "level": 2,
+          "heading": "4. Field Definitions and Editorial Rules",
+          "start": 3767,
+          "end": 7247,
+          "sha256": "307da954065e94f8fa7ace2e6b4a1915cf3f4d4be94d35583292ac946b2249a6"
+        },
+        {
+          "level": 3,
+          "heading": "4.1 Adventure ID",
+          "start": 3812,
+          "end": 4516,
+          "sha256": "ea9b0c88cbf85997d249a09a5743955d064d86a58f2e6d40655892a14a7c4c66"
+        },
+        {
+          "level": 3,
+          "heading": "4.2 Adventure Title",
+          "start": 4516,
+          "end": 5008,
+          "sha256": "6ece3195fbd19acf95d6eb1faef35e93088ba605bb803c9de666b2064e0fcd92"
+        },
+        {
+          "level": 3,
+          "heading": "4.3 Source Book",
+          "start": 5008,
+          "end": 5465,
+          "sha256": "d5685d6e81f59c4659bae9dcc05471fa6b66658cde58a39f891decfef41fc451"
+        },
+        {
+          "level": 3,
+          "heading": "4.4 Book Publisher",
+          "start": 5465,
+          "end": 6009,
+          "sha256": "5f9bf14a69f1f5804686837f9855b124f7dc455e0e872be6fd88a43af4dbaae4"
+        },
+        {
+          "level": 3,
+          "heading": "4.5 Start Page",
+          "start": 6009,
+          "end": 6630,
+          "sha256": "210d19b5debd20aba0cff6ec19506bfd637020d1836ab378a3e970e6b41efd01"
+        },
+        {
+          "level": 3,
+          "heading": "4.6 End Page",
+          "start": 6630,
+          "end": 7247,
+          "sha256": "55f5fbc5c46fac776ecd056c0bc48f7d744b44870ff0c88b17fc2335b2294518"
+        },
+        {
+          "level": 2,
+          "heading": "5. Determining What Constitutes a Discrete Adventure",
+          "start": 7247,
+          "end": 8276,
+          "sha256": "0d63fb476d9983e19b89c183f13a8051232080879c0277617f981e00400489f3"
+        },
+        {
+          "level": 2,
+          "heading": "6. Catalog Boundary Principle",
+          "start": 8276,
+          "end": 9180,
+          "sha256": "709406041c7eea0d1cdf262f2176c233b1bcd0796e5f3c88f6a03afd710691e5"
+        },
+        {
+          "level": 2,
+          "heading": "7. Canonical Record Example",
+          "start": 9180,
+          "end": 9869,
+          "sha256": "a7f481bb3cb773ce5b281ddcf8c0c65773d34f6dfcb153eb925249e7be5aa1ed"
+        },
+        {
+          "level": 2,
+          "heading": "8. Relationship to Future AdventureFinder Data",
+          "start": 9869,
+          "end": 10578,
+          "sha256": "b95588df4226ff4e6867626642967eb7a982f9d54e1f7f8dd08a81b3fe558f26"
+        },
+        {
+          "level": 2,
+          "heading": "9. Specification Authority and Revision Policy",
+          "start": 10578,
+          "end": 11287,
+          "sha256": "f719fc1a2c410470659cecb9bb0a80a3894815a97b3c3db0df9a23b1a23efcd9"
+        },
+        {
+          "level": 2,
+          "heading": "10. LLM Application Guidance",
+          "start": 11287,
+          "end": 12212,
+          "sha256": "de4fb0a40490821f741b73ed90c3d7e5b64efe3e26c7ddb8c9083e0c45cd43d9"
+        },
+        {
+          "level": 2,
+          "heading": "11. Revision History",
+          "start": 12212,
+          "end": 14474,
+          "sha256": "e25ff5b71030895e64aa8a70f1868d03f7c076e5ef46b1b47a08096468bf035e"
+        }
+      ]
+    },
+    {
+      "path": "Adventure_Boundary_Detection_Specification_ABDS_v1.4.md",
+      "version": "Version 1.4",
+      "mode": "100644",
+      "bytes": 127977,
+      "sha256": "99bfa95019765213c4a138b66cd5bfa408754ba1d40732a4abefcaf71b262630",
+      "sections": [
+        {
+          "level": 1,
+          "heading": "AdventureFinder",
+          "start": 0,
+          "end": 19,
+          "sha256": "30345670bacc42ce1b053eb3eac17951b0ad265baff45d9014ef6f36e982c4e3"
+        },
+        {
+          "level": 1,
+          "heading": "Adventure Boundary Detection Specification",
+          "start": 19,
+          "end": 127977,
+          "sha256": "006d58903050ac2a8bfa291c2a2ed327ac947b1c57c9f70a22d5b9223eba2f3c"
+        },
+        {
+          "level": 2,
+          "heading": "Version 1.4",
+          "start": 65,
+          "end": 481,
+          "sha256": "dd59a74b2be504cb90cd20c7bbee7694f1adee0a3096071adc96b77915a4edbd"
+        },
+        {
+          "level": 2,
+          "heading": "1. Purpose",
+          "start": 481,
+          "end": 2867,
+          "sha256": "0d6c3907f29fdd4adc6bc6280d276f07322ba74ee331d40adac0a66cab3575c1"
+        },
+        {
+          "level": 2,
+          "heading": "2. Scope and Authority",
+          "start": 2867,
+          "end": 4150,
+          "sha256": "0ab6d8dffb72d50fda4e7be19d286501ac1bb5ad16d19ccfd1d204523b1a5a2f"
+        },
+        {
+          "level": 2,
+          "heading": "3. Governing Editorial Principles",
+          "start": 4150,
+          "end": 5314,
+          "sha256": "0bd661fdf42cb6d1d43a7eed13fbe93602c9b4157e82816424205df5d2fd9663"
+        },
+        {
+          "level": 3,
+          "heading": "3.1 Fidelity to the Source",
+          "start": 4244,
+          "end": 4480,
+          "sha256": "f1a4b4baeda3be0bbfe4b94a62d2e6b8c0e3279411d414006d92f7dc421c7fe3"
+        },
+        {
+          "level": 3,
+          "heading": "3.2 Evidence-Based Editorial Judgment",
+          "start": 4480,
+          "end": 4700,
+          "sha256": "58c2571439c4a6ddfe932ef0034b7bdcd42e6780a006569efd931afdceba8e5e"
+        },
+        {
+          "level": 3,
+          "heading": "3.3 Consistency",
+          "start": 4700,
+          "end": 4867,
+          "sha256": "a51da150dda632e3c20a3697cb195ff1c29ac525a593cfdab22f553ea6b95f69"
+        },
+        {
+          "level": 3,
+          "heading": "3.4 Repeatability",
+          "start": 4867,
+          "end": 5314,
+          "sha256": "5e59656cf342c14593fe3dd5cf876a7e0f06b2d0e430087d0ec1020001a6c8af"
+        },
+        {
+          "level": 2,
+          "heading": "4. Human--Frontier--Software Editorial Model",
+          "start": 5314,
+          "end": 8473,
+          "sha256": "1fddb24f4be734f1ecc4e381764cd8a3276b4454be5bc58c127323605c151aaf"
+        },
+        {
+          "level": 3,
+          "heading": "4.1 Deterministic Software Role",
+          "start": 5501,
+          "end": 6398,
+          "sha256": "e35c41c991d09a101ad73ce912c920f704c89fd0c4222a0f45d3b524255a393f"
+        },
+        {
+          "level": 3,
+          "heading": "4.2 Frontier Model Role",
+          "start": 6398,
+          "end": 7312,
+          "sha256": "7c6fabb7aa8a36344eafcec5bc77394ef5d46ff56d5a5f4b21258bba4a36ca92"
+        },
+        {
+          "level": 3,
+          "heading": "4.3 Human Editor Role",
+          "start": 7312,
+          "end": 7925,
+          "sha256": "fae15c4981b9893c372a263133692c203373a4be8d9213aa9b8282141df2c1e1"
+        },
+        {
+          "level": 3,
+          "heading": "4.4 Appropriate Use of Uncertainty",
+          "start": 7925,
+          "end": 8473,
+          "sha256": "6fb5300bc5b9ff615c5d55f40578f55cf263081f77af27639da22b60e4af9691"
+        },
+        {
+          "level": 2,
+          "heading": "5. Fundamental Cataloging Unit",
+          "start": 8473,
+          "end": 12089,
+          "sha256": "373fb9c20ee240b0341811e80216aba8d5e76274f9571655adeff7dcce35a04f"
+        },
+        {
+          "level": 3,
+          "heading": "5.1 Nested Adventure Principle",
+          "start": 9979,
+          "end": 11040,
+          "sha256": "44ad46fcec1658e45dbd05d4c8c67849f190a8af9170fe003a629665cd0deaca"
+        },
+        {
+          "level": 3,
+          "heading": "5.2 Overlapping Canonical Boundaries",
+          "start": 11040,
+          "end": 12089,
+          "sha256": "27e5d72b6e6e5e0b353a24590d0e08b8d5c2a4b8abcfbd7130a088fd519334e7"
+        },
+        {
+          "level": 2,
+          "heading": "6. Normative Boundary Decision Procedure",
+          "start": 12089,
+          "end": 28225,
+          "sha256": "2204d4725a628988265bcb2219442aad1e682a653f089f70ca23a6e3a64e0fc9"
+        },
+        {
+          "level": 3,
+          "heading": "6.1 Precondition — Establish the Reviewable Source",
+          "start": 12429,
+          "end": 13140,
+          "sha256": "447510346591bbe278614234a9f1e12d4a85a031e185d679a85450b5008aa7bc"
+        },
+        {
+          "level": 3,
+          "heading": "6.2 Phase 1 — High-Recall Boundary Harvest",
+          "start": 13140,
+          "end": 15425,
+          "sha256": "da4a589a0f69bdc51b3174ab9068c43be67568af804d56ac8e17665eab988f30"
+        },
+        {
+          "level": 4,
+          "heading": "Step 1 — Establish Product Structure",
+          "start": 13190,
+          "end": 13613,
+          "sha256": "81ac06d6522d22456e722c84a2361c4acabb001178b4a08ff50bf185c0743333"
+        },
+        {
+          "level": 4,
+          "heading": "Step 2 — Exhaustively Identify Plausible Adventure Units",
+          "start": 13613,
+          "end": 15425,
+          "sha256": "86d99be8a136ad72925f7a059223955f70fd4cf052027c0ba874ac4fa1b21a10"
+        },
+        {
+          "level": 3,
+          "heading": "6.3 Phase 1b — Candidate Pressure / Sanity Review",
+          "start": 15425,
+          "end": 24298,
+          "sha256": "b3cb2b4b9bbff41aca37da9c9878e1de75347b070dbdd206215e9e78bc199ecb"
+        },
+        {
+          "level": 4,
+          "heading": "Survivor Play-Spine Proof",
+          "start": 17460,
+          "end": 20174,
+          "sha256": "8b29fc5089f5d24493c6300b6dd5567cb7ff4a92c7435690be894fe04d937da4"
+        },
+        {
+          "level": 4,
+          "heading": "Homogeneous Sibling-Set Calibration",
+          "start": 20174,
+          "end": 21495,
+          "sha256": "844971c0128035bb114e313140d03394a2973b0d6fbe54a9be929e53ea20d78f"
+        },
+        {
+          "level": 4,
+          "heading": "Systemic Survivor Revalidation",
+          "start": 21495,
+          "end": 24298,
+          "sha256": "5f08a5e5b2907356a01f3e6fb01c0a985f8ec2a58cbb92a16582dbae3e95ee6a"
+        },
+        {
+          "level": 3,
+          "heading": "6.4 Phase 2 — Canonical Identity, Nesting, and Boundary Adjudication",
+          "start": 24298,
+          "end": 26845,
+          "sha256": "83a49b4be6b3bdea26c4c9f145b675a9ba887842dd4c4a1adea61ec72f434a07"
+        },
+        {
+          "level": 4,
+          "heading": "Exact Boundary Requirement",
+          "start": 25187,
+          "end": 26047,
+          "sha256": "e9bf965a046749585fa75e949d8d9f4c061459ac23cbdb737834f98a9afbe95c"
+        },
+        {
+          "level": 4,
+          "heading": "Precedent Rule",
+          "start": 26047,
+          "end": 26845,
+          "sha256": "08c204e9d721850b0ca79c416898b9dfb16a0f8658c608a66f36404783ad8bc0"
+        },
+        {
+          "level": 3,
+          "heading": "6.5 Structured Freeze and Deterministic Catalog Handoff",
+          "start": 26845,
+          "end": 28225,
+          "sha256": "2bedeff77301308026c00bb4536724181848fae31427a03a22ae076912ce4688"
+        },
+        {
+          "level": 2,
+          "heading": "7. Core Boundary Test",
+          "start": 28225,
+          "end": 30410,
+          "sha256": "8089cf136886aa2e4c5e3729944a792e34461bf5b159e2e9fe86b7ae297883cc"
+        },
+        {
+          "level": 3,
+          "heading": "7.1 Beginning",
+          "start": 28318,
+          "end": 28819,
+          "sha256": "4c7353c84e0108e1b8a5327234e82c4e8b78b78d4cc7fd1ac3fbb386da21a59d"
+        },
+        {
+          "level": 3,
+          "heading": "7.2 Objective or Playable Purpose",
+          "start": 28819,
+          "end": 29194,
+          "sha256": "f07b984f23cd2e2d1a181df4b9deab85565714d27efcccb172b4e11eaef9ab27"
+        },
+        {
+          "level": 3,
+          "heading": "7.3 Progression",
+          "start": 29194,
+          "end": 29739,
+          "sha256": "64873a3fcc434f2ae54d6fd2de8edbe3df2add63a6dd1eaf8eaf1b3b5f5a1735"
+        },
+        {
+          "level": 3,
+          "heading": "7.4 Conclusion or Deliberate Transition",
+          "start": 29739,
+          "end": 30410,
+          "sha256": "9434bc06cf57e3a6ad0ee9668907c4282203cfdf5b264c22042aa90048c58488"
+        },
+        {
+          "level": 2,
+          "heading": "8. Playable Identity and Substantial Distinctness Test",
+          "start": 30410,
+          "end": 45772,
+          "sha256": "eb8fb6561d388b97e22923b3dece8fd787deff089b803b3797a25a5b685d0e44"
+        },
+        {
+          "level": 3,
+          "heading": "8.1 Entry",
+          "start": 31122,
+          "end": 31240,
+          "sha256": "73f8636ae2774d5bd82728fbc8214cc2ec16a4e85f5d5baad4109927e6402b7a"
+        },
+        {
+          "level": 3,
+          "heading": "8.2 Situation",
+          "start": 31240,
+          "end": 31393,
+          "sha256": "bb4f5ba364c19112e4e25e52fe271d716d2571ad23def0f84849f0c2d26a0629"
+        },
+        {
+          "level": 3,
+          "heading": "8.3 Body of Play",
+          "start": 31393,
+          "end": 31535,
+          "sha256": "43c01ca6a2301209fc7f439920f8054584caf741fed30a8c88f3389a3163376c"
+        },
+        {
+          "level": 3,
+          "heading": "8.4 Internal Coherence",
+          "start": 31535,
+          "end": 31699,
+          "sha256": "f6428e981ed91dbe7f28ed5f0d9fe6900074ca3cb06633a8c6737e5f51bdab7f"
+        },
+        {
+          "level": 3,
+          "heading": "8.5 Exit or Resolution",
+          "start": 31699,
+          "end": 31860,
+          "sha256": "b5921838553a1eb41d535c622036d46851e259492cd8074c2fe99a323c8ea4b6"
+        },
+        {
+          "level": 3,
+          "heading": "8.6 Addressability",
+          "start": 31860,
+          "end": 32234,
+          "sha256": "53ee94e2094c8c27d8997d7913080064f65416918086c64f2d1fcc5eba9ec6b1"
+        },
+        {
+          "level": 3,
+          "heading": "8.7 Replaceability",
+          "start": 32234,
+          "end": 32637,
+          "sha256": "e848c788f01136899a8584830f765b626627d0407b619da77db58a4f85e4beb4"
+        },
+        {
+          "level": 3,
+          "heading": "8.8 Positive Evidence",
+          "start": 32637,
+          "end": 33478,
+          "sha256": "fa1e9581d92375a9ebacb7987197b00d54cfa4aaca1823ceaf5ac8d63493c2b1"
+        },
+        {
+          "level": 3,
+          "heading": "8.9 Counterevidence",
+          "start": 33478,
+          "end": 34904,
+          "sha256": "c4da603d3d608ba36a7bcf2b9a34ab226379996d6ca2241dd7ef19eaa095ae2a"
+        },
+        {
+          "level": 3,
+          "heading": "8.10 Independence Is Not Required",
+          "start": 34904,
+          "end": 35416,
+          "sha256": "8fdc99249a40c32f906fa370f93b1034bc1150e682e9a443aa4bf07fe38fb9a8"
+        },
+        {
+          "level": 3,
+          "heading": "8.11 Pairwise Incremental Playable Identity",
+          "start": 35416,
+          "end": 39216,
+          "sha256": "101de1e20edabd1c38d6539ecdb2dae8dbeaec5c2c7b85a8c33dfd9483d829e3"
+        },
+        {
+          "level": 3,
+          "heading": "8.12 Boundary-Before-Identity Diagnostic",
+          "start": 39216,
+          "end": 41764,
+          "sha256": "71a40684ebdb8eba5943b6046901bd5ad17c299e0f9a79a4da994c5ec770978c"
+        },
+        {
+          "level": 3,
+          "heading": "8.13 Pairwise Regression / Calibration Examples",
+          "start": 41764,
+          "end": 45772,
+          "sha256": "d6a977c2646e1b532492e04c6dc4b537cdcb8d24a081e832cc250626160cc6ea"
+        },
+        {
+          "level": 2,
+          "heading": "9. Preserve Authorial Structure",
+          "start": 45772,
+          "end": 65771,
+          "sha256": "9a7a86e64257533d916222f448328d1205269593ead70fc9f8e908bc2f3740e7"
+        },
+        {
+          "level": 4,
+          "heading": "Positive Publisher Designation",
+          "start": 46325,
+          "end": 47564,
+          "sha256": "cb343803f8c992ee57bb4314c2d445588440b8fff61fbd7c9678ed1b460075e2"
+        },
+        {
+          "level": 3,
+          "heading": "9.1 Historical or External Adventure Identity",
+          "start": 47564,
+          "end": 48357,
+          "sha256": "3fa259f9ffcd062d5bd4bdefc924edb4f12fa6abc364bc59ee825e49b091b70b"
+        },
+        {
+          "level": 3,
+          "heading": "9.2 Publisher-Designated Hook, Seed, and Adventure-Idea Rule",
+          "start": 48357,
+          "end": 54570,
+          "sha256": "07d2c9a529b1d8949c243f04dba51f9c4c3ef44489dac2d4c447905141c80fcb"
+        },
+        {
+          "level": 4,
+          "heading": "Narrative Completeness Is Not Playable Completeness",
+          "start": 49603,
+          "end": 50962,
+          "sha256": "f0679ad51d4381c12e09e64cf90dac7c7ca7edb8843304251ce8dafcdec11bbd"
+        },
+        {
+          "level": 4,
+          "heading": "Do Not Borrow Surrounding Sourcebook Material to Complete a Hook",
+          "start": 50962,
+          "end": 51667,
+          "sha256": "b4209330cb3576be00cbc1dd6b0e91615c543f7f54dc917553ab13e6abfddcb0"
+        },
+        {
+          "level": 4,
+          "heading": "Scoreability Is Not Adventure Identity",
+          "start": 51667,
+          "end": 52231,
+          "sha256": "f4932d26614a8632a3aa989bf40766a4e3f6847305c332ecc99080d78d605433"
+        },
+        {
+          "level": 4,
+          "heading": "Override Standard",
+          "start": 52231,
+          "end": 53069,
+          "sha256": "54a2075fb9542eaf23b272303861e6655570d89bcc8e94d332cd93e2cf28da67"
+        },
+        {
+          "level": 4,
+          "heading": "Grim Hollow: The Campaign Guide Reference Case",
+          "start": 53069,
+          "end": 54570,
+          "sha256": "b618b8f90ec12bed19b39e8fbc5d27addaa70fec823d83bd0a4b74332587d866"
+        },
+        {
+          "level": 3,
+          "heading": "9.3 Authored Play Spine and Reviewer-Completion Rule",
+          "start": 54570,
+          "end": 62402,
+          "sha256": "80e190c649bfccbf00e6f35fbf75bfdbd9de1ca64e4bf5720c6554e5e57ebe53"
+        },
+        {
+          "level": 4,
+          "heading": "External Mission Spine vs. Intrinsic Site Spine",
+          "start": 57056,
+          "end": 58707,
+          "sha256": "7f196a685487f6f1853f0f015f50f0e7d158d94e744aa19f3a1256b3b84ebcb7"
+        },
+        {
+          "level": 4,
+          "heading": "Procedural Adventure vs. Adventure Generator",
+          "start": 58707,
+          "end": 59635,
+          "sha256": "4e0bfb5b28bf03e178fddc48df58b8ccdd3a46f356ef1b7bf2369d93799f4ab6"
+        },
+        {
+          "level": 4,
+          "heading": "Mission-Wrapper Guardrail",
+          "start": 59635,
+          "end": 60188,
+          "sha256": "69802825ea0e42a6a13dec6112095d42259ec540bb5d51e407ee75687ac6f27b"
+        },
+        {
+          "level": 4,
+          "heading": "Sourcebook Assembly Guardrail",
+          "start": 60188,
+          "end": 60725,
+          "sha256": "29fb37c69c3417718cc61650b1c40aaff357f05761dd157d2dd42a27e53359a9"
+        },
+        {
+          "level": 4,
+          "heading": "Weird Wastelands Reference Case",
+          "start": 60725,
+          "end": 62402,
+          "sha256": "c0c8f55e7e83541a6dafe6ed5c988003b66ba087e9d2afe56f362e4e0925b5da"
+        },
+        {
+          "level": 3,
+          "heading": "9.4 Zero-Adventure Source Outcome / No Adventure Quota",
+          "start": 62402,
+          "end": 65771,
+          "sha256": "5cac21c103b88402b983cd09a01e4232cf35592a061ab5932996e047fb297c02"
+        },
+        {
+          "level": 4,
+          "heading": "Zero-Adventure Reference Cases",
+          "start": 64048,
+          "end": 65771,
+          "sha256": "f8e01d41a8053aa3a50c2eca30603a6fd4a78a3281e48aba4e8859deb34dd4e4"
+        },
+        {
+          "level": 2,
+          "heading": "10. Product-Level Structural Classes",
+          "start": 65771,
+          "end": 68498,
+          "sha256": "d2ec133d4cb80ae7e709dbf92f4052be7f7fc1e2fb708ecb0d6bc8198b9c7242"
+        },
+        {
+          "level": 3,
+          "heading": "10.1 Standalone Adventure",
+          "start": 65812,
+          "end": 66075,
+          "sha256": "813b418abe585b4e73e40d4b7126cc6f8574c9e80933ae0bfa2a633865aca2ec"
+        },
+        {
+          "level": 3,
+          "heading": "10.2 Anthology / Collection",
+          "start": 66075,
+          "end": 66328,
+          "sha256": "6c9afd91aa06ca7980ce65541d1dc76f266fb598f465faa140e3d6d5837718b3"
+        },
+        {
+          "level": 3,
+          "heading": "10.3 Linked Adventure Sequence",
+          "start": 66328,
+          "end": 66626,
+          "sha256": "ac313991728662c3d38eb9fb778eb9a65be1026518f979050c35d622edb9354b"
+        },
+        {
+          "level": 3,
+          "heading": "10.4 Campaign / Large Integrated Adventure",
+          "start": 66626,
+          "end": 66970,
+          "sha256": "7b65b46d96d475ba7384cdc51caae0b87091bef14aa1399c5b66387099049414"
+        },
+        {
+          "level": 3,
+          "heading": "10.5 Sourcebook with Embedded Adventure",
+          "start": 66970,
+          "end": 67904,
+          "sha256": "94ef95ecf25b6595215fa622f9e18cc1dcee2d849f5a0332bd509ced1ba8f7a0"
+        },
+        {
+          "level": 3,
+          "heading": "10.6 Scenario / Encounter Collection",
+          "start": 67904,
+          "end": 68165,
+          "sha256": "d9857850cbaaaf0fd0f2a0c556dd1ba53b5855f033b00af01eb9c35c34087aec"
+        },
+        {
+          "level": 3,
+          "heading": "10.7 Hybrid / Ambiguous Product",
+          "start": 68165,
+          "end": 68498,
+          "sha256": "b431c8958fdd4ebcc6a59f247cc67e58dcb7d81146fcd5cc6463c0eeb61de16f"
+        },
+        {
+          "level": 2,
+          "heading": "11. Anthology and Collection Rules",
+          "start": 68498,
+          "end": 69858,
+          "sha256": "0af1ac5d727a1748a23d98f6890bec6c76a997c2a6014ecd2214006d724bbc46"
+        },
+        {
+          "level": 3,
+          "heading": "11.1 Reference Example --- The Sunless Citadel",
+          "start": 69115,
+          "end": 69533,
+          "sha256": "182ad5aecef96b007bf3020ce2fc85cf728ccc378d99bbef7d4ad4f248f4659d"
+        },
+        {
+          "level": 3,
+          "heading": "11.2 Anthology Boundary Principle",
+          "start": 69533,
+          "end": 69858,
+          "sha256": "2afb2d0d9c0da37ed3e87c88ed2819cd0313345f76ac40ef54bb1c4e0f1ee9e7"
+        },
+        {
+          "level": 2,
+          "heading": "12. Campaign Internal Boundary Review",
+          "start": 69858,
+          "end": 79285,
+          "sha256": "f69b04d670108dc2ccb6159d5c292fbfc898f0db81c446fa276160d1c7a5f01d"
+        },
+        {
+          "level": 3,
+          "heading": "12.1 Campaign Location Test",
+          "start": 70806,
+          "end": 71852,
+          "sha256": "467ad141c41aea6073240458dae1d55cd90d7f8ee941bd1d71e27dbb3b3bd2c3"
+        },
+        {
+          "level": 3,
+          "heading": "12.2 Site-Based Adventure vs. Mere Location",
+          "start": 71852,
+          "end": 76467,
+          "sha256": "9e47e114b1a636af1c4964c2fc9a66d9e12f12a8bf1411715a4508ccd00f3b8f"
+        },
+        {
+          "level": 4,
+          "heading": "Supporting Site Evidence",
+          "start": 72269,
+          "end": 72867,
+          "sha256": "07f76eae96e8b4a5392514601fd46514152288f77ef637be4e73652e0bca842a"
+        },
+        {
+          "level": 4,
+          "heading": "Binding Play-Spine Evidence",
+          "start": 72867,
+          "end": 74663,
+          "sha256": "7ea7eceef64da44558fba79b513e28f9148280a523b6ac9784bdb547c7dce6b3"
+        },
+        {
+          "level": 4,
+          "heading": "Middle-earth Landmark Calibration Cases",
+          "start": 74663,
+          "end": 76467,
+          "sha256": "46d89f9fa08860ba8e06d3b0f7fb99de4252d35e194990851448ddc2e39894f6"
+        },
+        {
+          "level": 3,
+          "heading": "12.3 Minimum Adventure Substance Test",
+          "start": 76467,
+          "end": 77395,
+          "sha256": "eb85b351fec8e8f3e93f107a1c3642855ccbeebe581b61f219c667aa2d27d302"
+        },
+        {
+          "level": 3,
+          "heading": "12.4 Curse of Strahd Reference Case",
+          "start": 77395,
+          "end": 79285,
+          "sha256": "db50fb2b72eb6c64e7fcd91a69b3168c119440b616e29ef38fbd196ae8892e6b"
+        },
+        {
+          "level": 4,
+          "heading": "Castle Ravenloft Historical Precedent",
+          "start": 78436,
+          "end": 79285,
+          "sha256": "5351997301b8983db7c9579dbd5026fe6c0a29ac892dde8116b31641d5f3a402"
+        },
+        {
+          "level": 2,
+          "heading": "13. Natural Narrative Division Review",
+          "start": 79285,
+          "end": 80259,
+          "sha256": "e50d0502ef2ea9d7cd625b9a64ffab65d8d279f737328f2072fa9819d893a0d6"
+        },
+        {
+          "level": 2,
+          "heading": "14. Hierarchical Structure and Canonical Adventure Identity",
+          "start": 80259,
+          "end": 82306,
+          "sha256": "37e51e00c24a7449c029e8fa3f20e8e3911a5376fec4af320a9cece2e9801408"
+        },
+        {
+          "level": 3,
+          "heading": "14.1 Parent and Child Canonical Identity",
+          "start": 81058,
+          "end": 81601,
+          "sha256": "e9330a58cb7efa39f044dd9b771a293eced4bb5aabffaf77b234a54dfdc59713"
+        },
+        {
+          "level": 3,
+          "heading": "14.2 Forge of Fury Reference Case",
+          "start": 81601,
+          "end": 82306,
+          "sha256": "8958cb808ffa6c7a13da77229f0f0b013817f9faef4620f0863d17dd6073fba2"
+        },
+        {
+          "level": 2,
+          "heading": "15. Short Adventures and Page Count",
+          "start": 82306,
+          "end": 82758,
+          "sha256": "7ea6404f788f1e3993a9e876491b919086ce056650b7e8297965c28d647c89e7"
+        },
+        {
+          "level": 2,
+          "heading": "16. Start Page Determination",
+          "start": 82758,
+          "end": 83633,
+          "sha256": "53da5f1498835d70aa38b134da48bc985be8459c8def5627a630c810338ca3c9"
+        },
+        {
+          "level": 2,
+          "heading": "17. End Page Determination",
+          "start": 83633,
+          "end": 84257,
+          "sha256": "c79ff038c99ce0716c99bb34fc4335201906e5f3b1211c04686f48bd7aa6a662"
+        },
+        {
+          "level": 2,
+          "heading": "18. Source Representation and Markdown",
+          "start": 84257,
+          "end": 87995,
+          "sha256": "9f80995a15f7908613e62b7548bf77f3e30bf12eca9d78bee02497b83a41bc19"
+        },
+        {
+          "level": 3,
+          "heading": "18.1 Heading Rule",
+          "start": 84902,
+          "end": 85043,
+          "sha256": "34525018b39f1f154ab69114e520f49edca60b2a15d0d1396279a26d8e5956b7"
+        },
+        {
+          "level": 3,
+          "heading": "18.2 Page Marker Rule",
+          "start": 85043,
+          "end": 85180,
+          "sha256": "9ff9ac99d06f106e0379a527accbd95df142590bd33b94206bdeb9ed85246728"
+        },
+        {
+          "level": 3,
+          "heading": "18.2.1 Source-Evidenced Pagination Rule",
+          "start": 85180,
+          "end": 86429,
+          "sha256": "88e38162665387a9d39e8e8cbed3a3fd51ae6ec20cb0d0b03db95447a4634b11"
+        },
+        {
+          "level": 3,
+          "heading": "18.2.2 End-Boundary Exhaustion Rule",
+          "start": 86429,
+          "end": 87565,
+          "sha256": "51674fe404e10e7e0e9141ab9d6bfde4185aa46c24390b88c8f6b1bf139761c5"
+        },
+        {
+          "level": 3,
+          "heading": "18.3 File Boundary Rule",
+          "start": 87565,
+          "end": 87706,
+          "sha256": "cde1000895a29011b7c02428f0a8e4359a72ab281d910614fce59fef36effe80"
+        },
+        {
+          "level": 3,
+          "heading": "18.4 Source Conflict Rule",
+          "start": 87706,
+          "end": 87995,
+          "sha256": "a739788faf7bc73ece882c7f921a6ea7dd7b8fa6f62f358df94cbd53d7fa626a"
+        },
+        {
+          "level": 2,
+          "heading": "19. Common False Positives",
+          "start": 87995,
+          "end": 89018,
+          "sha256": "a4c3a49ad5e9dbc77c16bfbc155a0b74422322549f13037a80e5c47d539b9a46"
+        },
+        {
+          "level": 2,
+          "heading": "20. Common False Negatives",
+          "start": 89018,
+          "end": 89953,
+          "sha256": "48c2e7bb8b8158282caf5d7a7274d783dcc47808938bd416f7cd63890498009e"
+        },
+        {
+          "level": 2,
+          "heading": "21. Editorial Evidence Categories",
+          "start": 89953,
+          "end": 91790,
+          "sha256": "83d1bb443b0e775118ce4880fec82334ced7d91b6698b1d0e105554e51dc973e"
+        },
+        {
+          "level": 3,
+          "heading": "21.1 Boundary-Supporting Evidence",
+          "start": 90074,
+          "end": 90619,
+          "sha256": "aa990e3c340cde05537ee05826a67fd41e347dbe51ae888c5d2cb85b2b3cd74c"
+        },
+        {
+          "level": 3,
+          "heading": "21.2 Boundary Counterevidence",
+          "start": 90619,
+          "end": 91468,
+          "sha256": "2f53c4430a54f9110d27e3f6cf6496c9ab35faa319ecb2d24a55ff30833f7fac"
+        },
+        {
+          "level": 3,
+          "heading": "21.3 Start-Boundary Evidence",
+          "start": 91468,
+          "end": 91548,
+          "sha256": "27a144b34ed1389e8d69d76536b8924dd97249afabd927dd1f89db72586b2251"
+        },
+        {
+          "level": 3,
+          "heading": "21.4 End-Boundary Evidence",
+          "start": 91548,
+          "end": 91790,
+          "sha256": "967218a6f0612a4d53d87bd57a61ccaa5ec6b1c9239913f0fb8cb37c315cf620"
+        },
+        {
+          "level": 2,
+          "heading": "22. Editorial Recommendation Format",
+          "start": 91790,
+          "end": 92594,
+          "sha256": "ef3bf92c6850fd5b8972a775c8479ef02634574ca8032d5cee19cf82788aee2d"
+        },
+        {
+          "level": 2,
+          "heading": "23. Confidence",
+          "start": 92594,
+          "end": 93453,
+          "sha256": "6405b5989cc1b17bcddac45730283c6c97eb54bb9f7093cc304b79273f2b8b4e"
+        },
+        {
+          "level": 2,
+          "heading": "24. Editorial Outcomes",
+          "start": 93453,
+          "end": 94766,
+          "sha256": "81a54c5b8e43f1795db0d0ca49485615a6af122a77623400b8d361d2fe5ad2aa"
+        },
+        {
+          "level": 3,
+          "heading": "ACCEPT AS ADVENTURE",
+          "start": 93541,
+          "end": 93925,
+          "sha256": "100ba03e7dd9677cf36eb40b651b76f33846ed48ca59e9c4cd2935183c1f1fb7"
+        },
+        {
+          "level": 3,
+          "heading": "REJECT --- STRUCTURAL UNIT",
+          "start": 93925,
+          "end": 94030,
+          "sha256": "f24af107c20395486a3f277c8dee36a30f2cc1d642c543849da017925f0babf7"
+        },
+        {
+          "level": 3,
+          "heading": "REJECT --- NON-ADVENTURE MATERIAL",
+          "start": 94030,
+          "end": 94165,
+          "sha256": "715d5e2d0e92ef2e5ed932f6620866c6ab0bd36b2760bcc1dcc443ffe3220dd7"
+        },
+        {
+          "level": 3,
+          "heading": "MERGE WITH PARENT / ADJACENT UNIT",
+          "start": 94165,
+          "end": 94402,
+          "sha256": "82357037244f59fc18a0c7c2df83b3366a8e34dfa4317a0264bae326fceeec6b"
+        },
+        {
+          "level": 3,
+          "heading": "SPLIT FOR FURTHER REVIEW",
+          "start": 94402,
+          "end": 94534,
+          "sha256": "159a39ee4165b43f2ac2fe775bc2c18de6fe04845bbe30375e27daee01300eae"
+        },
+        {
+          "level": 3,
+          "heading": "AMBIGUOUS --- HUMAN DECISION REQUIRED",
+          "start": 94534,
+          "end": 94766,
+          "sha256": "8f16687cc72a37e16eafd0f464265dda19ac279fe972f7b0f18dd579134f556b"
+        },
+        {
+          "level": 2,
+          "heading": "25. Canonical Library Ingestion Workflow",
+          "start": 94766,
+          "end": 96969,
+          "sha256": "81eb0ced9b7f545f595a5598040905433c5775628e7870b11ff2a2dae9de0440"
+        },
+        {
+          "level": 2,
+          "heading": "26. Adventure ID Assignment",
+          "start": 96969,
+          "end": 97896,
+          "sha256": "2e2c5e7f029efe162c032d4b562046100dc420dd1dca07912032923c0a060acc"
+        },
+        {
+          "level": 2,
+          "heading": "27. Decision Provenance and Precedent",
+          "start": 97896,
+          "end": 99139,
+          "sha256": "47920708609b87ddd0fcb2f130ff9af6183cc9d0db0df50bd2049e5ca7ae9923"
+        },
+        {
+          "level": 2,
+          "heading": "28. Corpus Consistency Review",
+          "start": 99139,
+          "end": 100170,
+          "sha256": "564eeb727d20261be3806d4782747b58e7cc3b03cbed4c6fd5b66622d1a98d10"
+        },
+        {
+          "level": 2,
+          "heading": "29. Relationship to Deterministic Tooling",
+          "start": 100170,
+          "end": 101978,
+          "sha256": "29edc287ec5f7816c4a69de86f99a1be101cc339e71580f3b714231e26886720"
+        },
+        {
+          "level": 2,
+          "heading": "30. Human Editorial Authority",
+          "start": 101978,
+          "end": 102713,
+          "sha256": "ef879f33abc2c259f7683afc63c209a0df4b89a3aeaf7bfc729958733a750b27"
+        },
+        {
+          "level": 2,
+          "heading": "31. Version 1.4 Change Summary",
+          "start": 102713,
+          "end": 103993,
+          "sha256": "db7ef27eb2a22e951bcd49853a66c49693956d552de9fe296efee50dda07fec7"
+        },
+        {
+          "level": 2,
+          "heading": "32. Version 1.3 Change Summary",
+          "start": 103993,
+          "end": 106175,
+          "sha256": "ec1e5cf0d77c20c025d1b35a300367a4923c11259b68e59f7311e3f500d9a966"
+        },
+        {
+          "level": 2,
+          "heading": "33. Version 1.2 Change Summary",
+          "start": 106175,
+          "end": 108368,
+          "sha256": "44afefefaf22977f7c15ae89cdaec732ea209b1dcf82698e7a221853692a9bbe"
+        },
+        {
+          "level": 2,
+          "heading": "34. Version 1.1 Change Summary",
+          "start": 108368,
+          "end": 110066,
+          "sha256": "1adbeaf46d4fbe1b2928d284bab90b82d6f635b785d9984d0dd89cba943584b4"
+        },
+        {
+          "level": 2,
+          "heading": "35. Version 1.0 Change Summary",
+          "start": 110066,
+          "end": 112093,
+          "sha256": "4869a2bbc41795aad37fa17fdb1c24c0d2ffb1f2ad23fba9ed40111f47653e61"
+        },
+        {
+          "level": 2,
+          "heading": "36. Version 0.7 Change Summary",
+          "start": 112093,
+          "end": 112938,
+          "sha256": "9f4e58410a9d75905697af2b1b4d84d1ec09a5b3d59ff1b22ae4fb0c863a6ed6"
+        },
+        {
+          "level": 2,
+          "heading": "37. Version 0.6 Change Summary",
+          "start": 112938,
+          "end": 113942,
+          "sha256": "1f11a89f536e1efe5f0fa8fb6ec70d9e0381dda4c2cbee7bd0e1a90938ca6339"
+        },
+        {
+          "level": 2,
+          "heading": "38. Version 0.5 Change Summary",
+          "start": 113942,
+          "end": 115214,
+          "sha256": "9ef485e0124a749bcbcfdd5700dde9527101782c07846df523ccbf557f6eb06b"
+        },
+        {
+          "level": 2,
+          "heading": "39. Editorial Philosophy and Method Evolution",
+          "start": 115214,
+          "end": 116516,
+          "sha256": "21d91bbefacbe8dbad9d30bfcb00c42811bd8d8e4033bdae614fe6cf5882e266"
+        },
+        {
+          "level": 2,
+          "heading": "40. Success Criteria for Ongoing Library Ingestion",
+          "start": 116516,
+          "end": 117917,
+          "sha256": "296da3b7dd9a708aafad7fa0dc2069c7da5bc2b4bc26001e4dfe4ea7ee18e3c9"
+        },
+        {
+          "level": 2,
+          "heading": "41. Revision History",
+          "start": 117917,
+          "end": 127977,
+          "sha256": "020b5b51bb82988723b4d8a93209e30a8521d909eb0b445c8ee11872b09a5432"
+        }
+      ]
+    },
+    {
+      "path": "AdventureFinder_Analysis_Ontology_AFAO_v1.6.1.md",
+      "version": "Version 1.6.1",
+      "mode": "100644",
+      "bytes": 339101,
+      "sha256": "dcfad224ab9517272504a508f935a804032d04a7c812ede10498921ce4585fa1",
+      "sections": [
+        {
+          "level": 1,
+          "heading": "AdventureFinder Analysis Ontology",
+          "start": 0,
+          "end": 10127,
+          "sha256": "a679c791a6d37f155f0619617265896715c4136a7675ed65efff1526d8af93f2"
+        },
+        {
+          "level": 2,
+          "heading": "Version 1.6.1",
+          "start": 37,
+          "end": 159,
+          "sha256": "12187b3f2d583a84f7df455649188b4df878c10b9091d96594a20f5874c14e94"
+        },
+        {
+          "level": 2,
+          "heading": "Purpose",
+          "start": 159,
+          "end": 654,
+          "sha256": "6a0e30a46571c1f06df9aaa5703159cb092d94ac6c7c064b6c5d4164f8a4d4e1"
+        },
+        {
+          "level": 2,
+          "heading": "Canonical Dimension Acronyms",
+          "start": 654,
+          "end": 2430,
+          "sha256": "bff7d3be505bb29c329741350afa0b6d750b01cad5aff9ed1524487144e1ab71"
+        },
+        {
+          "level": 2,
+          "heading": "Editorially Assessed Catalog Dimensions",
+          "start": 2430,
+          "end": 3484,
+          "sha256": "b6696c10d3503339e9fc71933b8d6e4c18a50434e0bb238b169ce69954eb9c53"
+        },
+        {
+          "level": 2,
+          "heading": "Analysis Dimensions",
+          "start": 3484,
+          "end": 9884,
+          "sha256": "5dbf92ed30f9d387202be00eea5166c9c9b0117cea6c537f6e81ac35f31df6c5"
+        },
+        {
+          "level": 2,
+          "heading": "Editorially Assessed Matching-Dimension Rubrics",
+          "start": 9884,
+          "end": 10127,
+          "sha256": "be153b2f571214a8ff495db2070c75dd6abc9fecf6239e159e4b61c049898caf"
+        },
+        {
+          "level": 3,
+          "heading": "1. # of Sessions",
+          "start": 9936,
+          "end": 10127,
+          "sha256": "f25b20732a7696e28db6d8c08ccc0142ed257687da0c7bba04e7513061e6e0fe"
+        },
+        {
+          "level": 1,
+          "heading": "of Sessions is an **editorially assessed matching dimension**, not a 1--5",
+          "start": 10127,
+          "end": 20858,
+          "sha256": "994c45983b3af8ae69fee57836cd8c8a0f5af47cd9aa259863db5c424e09ed3d"
+        },
+        {
+          "level": 4,
+          "heading": "Primary Assessment Value",
+          "start": 11172,
+          "end": 11898,
+          "sha256": "a2eaff84f98d8dfa60c6230c7783c075e1e5048dcb8e5d3bcb35b44d13042922"
+        },
+        {
+          "level": 4,
+          "heading": "Supporting Assessment Fields",
+          "start": 11898,
+          "end": 13123,
+          "sha256": "39cc6c6d2f39e10c1dc23fdb371d4aa4dd4be89be1c612a533897285eb56559d"
+        },
+        {
+          "level": 4,
+          "heading": "Normalized Session Baseline",
+          "start": 13123,
+          "end": 13845,
+          "sha256": "55a3c6ce1c7eb7dd36a745e5998bd8c6f269099ec520cd483a408f5ac4ca84f2"
+        },
+        {
+          "level": 4,
+          "heading": "Published Duration and Format Claims",
+          "start": 13845,
+          "end": 15037,
+          "sha256": "baf558e2d7bf2044c3ad132b9055e2809c12d9c648a00a4a145d88f4667e351a"
+        },
+        {
+          "level": 4,
+          "heading": "Canonical Adventure Unit",
+          "start": 15037,
+          "end": 15652,
+          "sha256": "3a048d53c1991c7e6c37ff5944e7ad3072b1775708990fd3af4696565324a27a"
+        },
+        {
+          "level": 4,
+          "heading": "Substantially-as-Published Completion",
+          "start": 15652,
+          "end": 16159,
+          "sha256": "530bc901c40d8dbd426f758e39855e79b4addd0b5cf9770b28db34a00ee434f4"
+        },
+        {
+          "level": 4,
+          "heading": "What Counts Toward Session Duration",
+          "start": 16159,
+          "end": 16858,
+          "sha256": "d22cc314f109a244b52f73d443e338d90fe8883f45776bf2fb9c0fbd5e9c5bde"
+        },
+        {
+          "level": 4,
+          "heading": "What Does Not Automatically Count",
+          "start": 16858,
+          "end": 17474,
+          "sha256": "784fc73ee8630cda057aa5fb61f5a86c3031e8cba5bceb21317ece1ac9ad33a6"
+        },
+        {
+          "level": 4,
+          "heading": "Page Count Is Evidence, Not a Formula",
+          "start": 17474,
+          "end": 18130,
+          "sha256": "cbcb1f5647fc48c7f7e9edbc1f9a4618b9fe96ce2a4d121abdba8b5fe52b814a"
+        },
+        {
+          "level": 4,
+          "heading": "Level Range Is Evidence, Not a Formula",
+          "start": 18130,
+          "end": 18641,
+          "sha256": "ce34b4672381e8b30bb998645a64289f435e9eb0776f625e27204b1e3fd1ad6a"
+        },
+        {
+          "level": 4,
+          "heading": "Optional and Branching Content",
+          "start": 18641,
+          "end": 19481,
+          "sha256": "c0d16a8a2f2c9e654520bb96b015bdbddf9adcfb026382a5c8547236ec7812bd"
+        },
+        {
+          "level": 4,
+          "heading": "Bypasses and Alternate Resolutions",
+          "start": 19481,
+          "end": 20126,
+          "sha256": "a5704b6eb10a9657460f1f0f5ceb4d9b2324a118e676d5da965dfce3ceb3ccf2"
+        },
+        {
+          "level": 4,
+          "heading": "In-Fiction Time Is Not Table Time",
+          "start": 20126,
+          "end": 20811,
+          "sha256": "c5054d2f721138cfc2df51a22cddfbfe6c9a1327a5e4e39f26b4b87bbb349dcc"
+        },
+        {
+          "level": 4,
+          "heading": "Player Pace and Ordinary Table Variation",
+          "start": 20811,
+          "end": 20858,
+          "sha256": "28e9754fb81dd954c2a2a38025ef125745e85320c2238aace394471d291a0d26"
+        },
+        {
+          "level": 1,
+          "heading": "of Sessions necessarily contains more table-to-table variability than most",
+          "start": 20858,
+          "end": 339101,
+          "sha256": "39002360d0d0d2ef2f6af1ba9acda1d4aa61f66da04bbdb5149c16555e3f02e6"
+        },
+        {
+          "level": 4,
+          "heading": "Practical Range",
+          "start": 21732,
+          "end": 22285,
+          "sha256": "c2764a37c4f7b6c82cc58fcb0fd3ba4f66bc33c4afba4d45279a5600121c3ea8"
+        },
+        {
+          "level": 4,
+          "heading": "Path Sensitivity",
+          "start": 22285,
+          "end": 23374,
+          "sha256": "9bc70504ec33c8215a42de91e07bb1f1537d4d264658dbbbc236675e532eceb9"
+        },
+        {
+          "level": 4,
+          "heading": "Confidence",
+          "start": 23374,
+          "end": 24315,
+          "sha256": "054b398999090686152642978b29bc04d5fe6cd8a97cd585334fe0ab10cba5c5"
+        },
+        {
+          "level": 4,
+          "heading": "Assessment State",
+          "start": 24315,
+          "end": 25183,
+          "sha256": "7aa321f38d3161ad482b326958a5d9a1f310baf0f5eb6ee510ceacbb6b4d2d9c"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Regimes",
+          "start": 25183,
+          "end": 27248,
+          "sha256": "2019dedd69a42b096f56e385271f62f51aa68e9bbde89dbcb555ff11dca3b54d"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 27248,
+          "end": 28680,
+          "sha256": "e05bc1d0021ad5fe2c8a5a2a3f9ec35b0babe42e6d567696ff619faa612856ce"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration and Blind Validation Record",
+          "start": 28680,
+          "end": 31893,
+          "sha256": "aec78014740eb85ca158c83ef7c43c57d5d28e02a28de40d931501ae3b72a7c2"
+        },
+        {
+          "level": 4,
+          "heading": "Blind-Validation Agreement Interpretation",
+          "start": 31893,
+          "end": 33108,
+          "sha256": "d3e12ecd6c313a64d84def657037027d1df5a1263f09de0a1a9a73f27d161b33"
+        },
+        {
+          "level": 4,
+          "heading": "Relationship to User Query Normalization",
+          "start": 33108,
+          "end": 33972,
+          "sha256": "1330acd250bf9df855112f346d956e073cd778258dab6b557dcccad557bb8be9"
+        },
+        {
+          "level": 3,
+          "heading": "2. Levels",
+          "start": 33972,
+          "end": 57026,
+          "sha256": "fe57194c31a083ceab67bfe231a2d8f179ac23545be0c7d2c7150833f4b77e1a"
+        },
+        {
+          "level": 4,
+          "heading": "Primary Assessment Values",
+          "start": 35257,
+          "end": 36366,
+          "sha256": "60c26fab9daa82da4ed13239cab50bb404a1288e1b2e65e2ca9368897869dfbf"
+        },
+        {
+          "level": 4,
+          "heading": "Governing Assessment Principle",
+          "start": 36366,
+          "end": 37075,
+          "sha256": "cab64f0ff55e5dd98ed36aaf0d64d02fac12d94a910e919629453b2d477f9f4e"
+        },
+        {
+          "level": 4,
+          "heading": "Canonical Adventure ID",
+          "start": 37075,
+          "end": 37796,
+          "sha256": "d6fc17bb0c1463b6b6d3693b739d26ad57b849e6e753bc21efa466c9a5ac60de"
+        },
+        {
+          "level": 4,
+          "heading": "Prefer Explicit Adventure-Specific Guidance",
+          "start": 37796,
+          "end": 38575,
+          "sha256": "b119edc56d171f3f60dd35ba9fe3b57b354bb28d30920be2f3a4421f4528ec15"
+        },
+        {
+          "level": 4,
+          "heading": "Determining Level Start",
+          "start": 38575,
+          "end": 39260,
+          "sha256": "9b3161e926c33e4fec77768984daf0f58589e554126979e3c917bbc2deda6769"
+        },
+        {
+          "level": 4,
+          "heading": "Determining Level End",
+          "start": 39260,
+          "end": 39930,
+          "sha256": "b94d0b1e0d9a2c4a58fa58a14337a4dcfc65b62561e92d9f5acc497180caaaa9"
+        },
+        {
+          "level": 4,
+          "heading": "Completion Advancement Counts",
+          "start": 39930,
+          "end": 40649,
+          "sha256": "f77e657773e5950a85b6972ff5c8291c1d69f9a46c9e0bba6a5d41d16b4e7ee5"
+        },
+        {
+          "level": 4,
+          "heading": "Advancement Belonging to Later Material Does Not Count",
+          "start": 40649,
+          "end": 41233,
+          "sha256": "05adb6b2e42b0266e3d5eed47dc3b0ae828e79c83f4848aba0d8ec71cc9e79a7"
+        },
+        {
+          "level": 4,
+          "heading": "Primary Design Takes Priority over Scaling Support",
+          "start": 41233,
+          "end": 42106,
+          "sha256": "4cdf192235c6f27a1495cbd69ac010204d415adc24f3139b776328007950626e"
+        },
+        {
+          "level": 4,
+          "heading": "Alternate / Scalable Level Support",
+          "start": 42106,
+          "end": 42914,
+          "sha256": "64a0f899f7a39e5db94ab2f300afe0fe69529da1349b98e9ddad37deb7330c47"
+        },
+        {
+          "level": 4,
+          "heading": "Multiple Advancement Methods",
+          "start": 42914,
+          "end": 43714,
+          "sha256": "426f140cf7b79811ae2804fd50b5b3c90027e66f94ba62d084a5b20d592c2072"
+        },
+        {
+          "level": 4,
+          "heading": "Open and Nonlinear Campaigns",
+          "start": 43714,
+          "end": 44390,
+          "sha256": "08f90ae84cc4fea2a7d6fc1b7ef0f012ae6b87e7b75601a0f63f3e14e5822f8d"
+        },
+        {
+          "level": 4,
+          "heading": "Do Not Expand the Primary Values for Off-Level Possibility",
+          "start": 44390,
+          "end": 44981,
+          "sha256": "64a085d5a1424836cfe6dfe48519dce50ba85d1194a225da1123a00c0a4660ac"
+        },
+        {
+          "level": 4,
+          "heading": "Do Not Infer Levels from Encounter Challenge Alone",
+          "start": 44981,
+          "end": 45593,
+          "sha256": "30865e40646fd019900964024c7980cab4e83722bdda1fecff8aea6b042018f3"
+        },
+        {
+          "level": 4,
+          "heading": "Adventure-Supported Advancement Only",
+          "start": 45593,
+          "end": 45988,
+          "sha256": "b9f16c4dcf1122f228a4da1fc5646b0aa85accabc085376f5b5d54356e58485e"
+        },
+        {
+          "level": 4,
+          "heading": "Optional and Branching Material",
+          "start": 45988,
+          "end": 46575,
+          "sha256": "380fa333036ab86452d53e0b17b3f87c0ae9b29b9a241f01aeddcc104112ff56"
+        },
+        {
+          "level": 4,
+          "heading": "Evidence Hierarchy",
+          "start": 46575,
+          "end": 47288,
+          "sha256": "6487c8b423801d2da28ee379859ec72937f605f8d68cf30d73683174c305f6bc"
+        },
+        {
+          "level": 4,
+          "heading": "Evidence Basis",
+          "start": 47288,
+          "end": 47858,
+          "sha256": "6035769626f2f739f5fcd810ad7b3d1b86a2c287a0c7e77105a0f15b2a947c52"
+        },
+        {
+          "level": 4,
+          "heading": "Insufficient Evidence and Assessment State",
+          "start": 47858,
+          "end": 48833,
+          "sha256": "5446d8043b94be2b14fb7821583e1cb363509e30f727f5011e3a184c1f3bce6b"
+        },
+        {
+          "level": 4,
+          "heading": "Matching Guidance",
+          "start": 48833,
+          "end": 50051,
+          "sha256": "48a46bde4ebcf24d0a7f3a1024437c9cf07ff500c20be45feee15f09d6fbe447"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Reference Cases",
+          "start": 50051,
+          "end": 51814,
+          "sha256": "e8dcd138a40f05604c9ed92cb0065a8a8215b5edbe3cc30ff60fa2f47692d8b6"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration and Adjudication History",
+          "start": 51814,
+          "end": 53586,
+          "sha256": "13dbb61cabe3dec7699bd2e81351afa15f6d3d4707982f8e16b441a8c0576b66"
+        },
+        {
+          "level": 4,
+          "heading": "Blind Validation",
+          "start": 53586,
+          "end": 55096,
+          "sha256": "4104cd5e53fde69826193452dc951f14445e3d29ada9267be9f579ce6ba29b66"
+        },
+        {
+          "level": 4,
+          "heading": "Production Application Procedure",
+          "start": 55096,
+          "end": 56218,
+          "sha256": "96fdf3a7774306b8ad6d9ecbf626236fe139ce051fdb9fd6420d53a44b53399e"
+        },
+        {
+          "level": 4,
+          "heading": "Frozen Levels v2.1 Core Rule",
+          "start": 56218,
+          "end": 57026,
+          "sha256": "41e8729cf4ef87a5785bd852b95fef75dedf1c89265e798d07b5175b161dc11d"
+        },
+        {
+          "level": 2,
+          "heading": "Provisional Analysis Scoring Framework",
+          "start": 57026,
+          "end": 62346,
+          "sha256": "6ae0b6b97ecc69cd81de9dcbf11e536343ac76a3fe19ac5a11a2b3773852231b"
+        },
+        {
+          "level": 3,
+          "heading": "Common Scoring Principles",
+          "start": 57609,
+          "end": 60921,
+          "sha256": "3c847897399a41680e7ebe87c7a54da9caa590fde86969cf29f85652a9d7f5d9"
+        },
+        {
+          "level": 3,
+          "heading": "Insufficient Evidence and Assessment State",
+          "start": 60921,
+          "end": 62346,
+          "sha256": "b513192db4fed0161fea6f6d4bc58f7f6170a46f9f52988c46a95499214f35a2"
+        },
+        {
+          "level": 2,
+          "heading": "Provisional Dimension Rubrics",
+          "start": 62346,
+          "end": 285345,
+          "sha256": "5b5957618577f061d75f35a3dd51b71d5bf12d88d81270c5b3ce5a213d8a7401"
+        },
+        {
+          "level": 3,
+          "heading": "3. Combat Emphasis",
+          "start": 62571,
+          "end": 73430,
+          "sha256": "68df87f1c85218e6592b92da751ccc1120a650fb5257c6a26171f03d882a3112"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 63833,
+          "end": 66010,
+          "sha256": "c47fc5adac384bf8cd4aa520e5ad1d2a7b0a50f805be32d66196cc8b2211f6ad"
+        },
+        {
+          "level": 4,
+          "heading": "Post-1.0 Score-5 Benchmark Expansion and Blind Replication",
+          "start": 66010,
+          "end": 69975,
+          "sha256": "cf2deabb2cfa8701585260447ba7526a2b92573694a4bd6817893b9627a07254"
+        },
+        {
+          "level": 4,
+          "heading": "Post-1.1 Salvage Operation Benchmark Re-Adjudication",
+          "start": 69975,
+          "end": 73430,
+          "sha256": "a442a5195a079502857c5637bd335f484a7612fe03b83fca3062b09c93f1ba42"
+        },
+        {
+          "level": 3,
+          "heading": "4. Exploration Emphasis",
+          "start": 73430,
+          "end": 78859,
+          "sha256": "0b2753aabc50fe39652a3a39795bb7c6720ce1c9ad7b6aeb815c3e9490baa910"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 75393,
+          "end": 78859,
+          "sha256": "8b7e350f99b8055735926a34f0aab1106247d9843b4ab8951fcc40261a0e9625"
+        },
+        {
+          "level": 3,
+          "heading": "5. Social Interaction Emphasis",
+          "start": 78859,
+          "end": 84086,
+          "sha256": "11ad7cfa293ad9a72dd23c3a4366e3b233af1e16e510faf052fce35133a4ac30"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 81315,
+          "end": 84086,
+          "sha256": "17bfdcae0a1f3924a2ee3a3a17e9da90054b0ec4bd811c74eaa620b18d0595c3"
+        },
+        {
+          "level": 3,
+          "heading": "6. Investigation Emphasis",
+          "start": 84086,
+          "end": 93271,
+          "sha256": "2b7e80bf46b1ec62acd38b2f777f33ad48e7f443c4c5bb987a79589adc5df78a"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 87660,
+          "end": 93271,
+          "sha256": "622e2e2453bbd201215d804953010e9ec0d1b2eee6c265442aa806af3466be49"
+        },
+        {
+          "level": 3,
+          "heading": "7. Puzzle / Problem-Solving Emphasis",
+          "start": 93271,
+          "end": 101052,
+          "sha256": "0218d676ae959b40ed4d14744a0b9eb05d1bbf4731d4ad27bb98372fdd92cc36"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 97042,
+          "end": 101052,
+          "sha256": "70d4207ad2fb98ce9daa8ed9584a871d6ddf40dd301cec1ede4c4edf41a7e418"
+        },
+        {
+          "level": 3,
+          "heading": "8. Tactical Complexity",
+          "start": 101052,
+          "end": 123828,
+          "sha256": "24ddfb5f5fcaf1c2a5316579ea285897185ce7422dab0080b6417fde0b4902f3"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 107565,
+          "end": 108593,
+          "sha256": "1ca486cae2f43bdcac186cd832a0e524cbdf5110edc7c24f9ceba2e9d6f8a32a"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Record and Boundary Guidance",
+          "start": 108593,
+          "end": 120638,
+          "sha256": "0970689c855e6f553bdafd929750bffff4947fb824f21dddb522b9fa777938b4"
+        },
+        {
+          "level": 4,
+          "heading": "AFAO 1.4.1 Blind Revalidation and Final Benchmark Adjudication",
+          "start": 120638,
+          "end": 123828,
+          "sha256": "b6b7b4b9e1d7fc8184b5bb81e26090b4214e11b9be06a32180744d823c58708f"
+        },
+        {
+          "level": 3,
+          "heading": "9. Lethality / Failure Severity",
+          "start": 123828,
+          "end": 132332,
+          "sha256": "626166f8908ba80842ef360ece3bcc637a3942cc6b55316ea51927861244ac90"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 126799,
+          "end": 132332,
+          "sha256": "b3437bbb626e183e6b2a5155ae28a9165a8ebf9a0b8473f90386c4a255e63ab7"
+        },
+        {
+          "level": 3,
+          "heading": "10. Rules / System-Mastery Demand",
+          "start": 132332,
+          "end": 154279,
+          "sha256": "64ee229503448e8bc40b4941914c161d2e5c6fa376f52a7aea83afa047700231"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 141097,
+          "end": 142125,
+          "sha256": "40c04fce263c517744fcaedf62458f28ffdb4afd60b13a6b43641fa9f148a8f7"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Record and Boundary Guidance",
+          "start": 142125,
+          "end": 147881,
+          "sha256": "202c7b0dc4770bf943af53af942866ee7ad877355bea34f749a43a8bc8ab4502"
+        },
+        {
+          "level": 4,
+          "heading": "AFAO 1.5 Post-Blind RSMD Correction and Benchmark Adjudication",
+          "start": 147881,
+          "end": 154279,
+          "sha256": "a89d87bc87f27165bd2d11059dbda0b8467cce665e4556c2d9b64b9ff543dba7"
+        },
+        {
+          "level": 3,
+          "heading": "11. Structural Openness",
+          "start": 154279,
+          "end": 164924,
+          "sha256": "2a1fafd09cdfa9306db8af54f35bbb554df9135ce6ad4b7b4496d0021eb919f0"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 157773,
+          "end": 164924,
+          "sha256": "de0bb786eaae5987db02339f8b8686d63ec7ad5b5e943d42357c2864e79bc0ce"
+        },
+        {
+          "level": 3,
+          "heading": "12. Consequential Player Agency",
+          "start": 164924,
+          "end": 176965,
+          "sha256": "727799026fb2049f79c40bc6c7c94d2e84d0cf64965d71579a0c89979015c6c3"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 170000,
+          "end": 176965,
+          "sha256": "9e04d3f5a7489c511542e14e8ab50d707770cc12ad636d9b6fd68e7a59102f3e"
+        },
+        {
+          "level": 3,
+          "heading": "13. Seriousness",
+          "start": 176965,
+          "end": 188976,
+          "sha256": "7c970048efa8a7a0c3deac985f7a88d47e21da31d4e5ec4257ec4e68a4766065"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 179353,
+          "end": 188976,
+          "sha256": "d50b0523ced4033077d375a1797568552d7b0f6dc3f1f948965c7e52a457c98f"
+        },
+        {
+          "level": 3,
+          "heading": "14. Darkness / Horror Intensity",
+          "start": 188976,
+          "end": 205021,
+          "sha256": "f7b5ea19a6d030f20b6b0f1134ba1568b7f9886be00154716919fe932842f8c6"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 192076,
+          "end": 192936,
+          "sha256": "28366ecc99459840946198e53d16d43d2bcd756ad5e209172b9810a2907d66bd"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Record and Boundary Guidance",
+          "start": 192936,
+          "end": 198760,
+          "sha256": "d7571846426d5b898db7b45fdf30a3c7d3120d7dfb9fda1f375f8861c27ad0c2"
+        },
+        {
+          "level": 4,
+          "heading": "Blind Validation and Disagreement Adjudication",
+          "start": 198760,
+          "end": 202714,
+          "sha256": "d9abdf3744ab69c5d6c6ea1430b053ed00c4994252071872fb6395e7a0ee4e00"
+        },
+        {
+          "level": 4,
+          "heading": "Application Guardrails",
+          "start": 202714,
+          "end": 205021,
+          "sha256": "afd2e67387542c4d3a242a488b42f9891f3438424ef1461bbf5227d678c67d2f"
+        },
+        {
+          "level": 3,
+          "heading": "15. Fantastic Weirdness",
+          "start": 205021,
+          "end": 223848,
+          "sha256": "a7958401f5d464636d31a4756dcc24fdd98f306418a5ae09a42d73ed5a0f1798"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 209274,
+          "end": 210305,
+          "sha256": "0d2994c43ac1ab70a0d22d1f7fb57874353d36800772e26600363d70510a41c4"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Record and Boundary Guidance",
+          "start": 210305,
+          "end": 218161,
+          "sha256": "5770f3d78d8f2f7b3488625ddfc00f1f1c505d11026c6b4f2f4b25087f6d9884"
+        },
+        {
+          "level": 4,
+          "heading": "Blind Validation and Disagreement Adjudication",
+          "start": 218161,
+          "end": 220594,
+          "sha256": "b896888d1655b6aeb40f5369269d43012d3b2b4fd331069493f2784ea042ac3f"
+        },
+        {
+          "level": 4,
+          "heading": "Application Guardrails",
+          "start": 220594,
+          "end": 223848,
+          "sha256": "eae9686e4e5edd1cb1eab5149e3bee7a78d12e726888e1e5cde493f3fbcdf096"
+        },
+        {
+          "level": 3,
+          "heading": "16. GM Preparation Burden",
+          "start": 223848,
+          "end": 240571,
+          "sha256": "d32c02b6c6f4628342adc72bfce25d582a68966786283e099aca1a48ad7ab770"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Rules",
+          "start": 224737,
+          "end": 229264,
+          "sha256": "4ddd78c721fb02339a3ecdf3e8d8692116ae63217b5c854ebe4c38080e12ccfc"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 229264,
+          "end": 233348,
+          "sha256": "3f23ec0f50dc2a67a9bb46d9bb5ed2d79423aaff99eecacd57106ad9689b0eb7"
+        },
+        {
+          "level": 4,
+          "heading": "AFAO 1.6 Score-5 Benchmark Expansion and Blind Replication",
+          "start": 233348,
+          "end": 240571,
+          "sha256": "99600b58d581a079a992ecdd83901c82c4d25f5755bed9f2c61c86059cdbec40"
+        },
+        {
+          "level": 3,
+          "heading": "17. GM Improvisation Demand",
+          "start": 240571,
+          "end": 257340,
+          "sha256": "9ba657568f9295d950b06a236c5b1223aad4a0fc100bde901e14f61053496ef1"
+        },
+        {
+          "level": 4,
+          "heading": "What Counts",
+          "start": 241377,
+          "end": 242637,
+          "sha256": "4378b962f6324c37cc54ac98d70e2ef09f07749dbb4b2065ad85b739fc9e5ff8"
+        },
+        {
+          "level": 4,
+          "heading": "What Does Not Count by Itself",
+          "start": 242637,
+          "end": 246740,
+          "sha256": "d10f56a6c089214a9bd322a68e426f39a47daf5bb8bcd0cb36ad213895b0dcb3"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 246740,
+          "end": 247594,
+          "sha256": "09c9d7cfcbc826a3f35b4aedde8f49ff762abb65e53e0c693896297ccaef136e"
+        },
+        {
+          "level": 4,
+          "heading": "Adjacent-Boundary Guidance",
+          "start": 247594,
+          "end": 249270,
+          "sha256": "77b57f49b78ea94372423c1f83fbce4d2732d41b480016ff6c825e593ea860d2"
+        },
+        {
+          "level": 4,
+          "heading": "Score-5 Interpretive Guardrail",
+          "start": 249270,
+          "end": 251786,
+          "sha256": "72bfc43df60e8ec93fff6b42621b62212f384856b8523a6430fe7af4ac64e9ab"
+        },
+        {
+          "level": 4,
+          "heading": "Post-Blind Application Guardrails",
+          "start": 251786,
+          "end": 253734,
+          "sha256": "f408ec179aecd12a48ede1a593d748b98222ae88e4bdf5688cd3eaac795f77fb"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration and Blind Validation Record",
+          "start": 253734,
+          "end": 257340,
+          "sha256": "63612c549a686709b095a6325823cf4abdb01897fc4b2abc4830e6e660ffe513"
+        },
+        {
+          "level": 3,
+          "heading": "18. Player Beginner Suitability",
+          "start": 257340,
+          "end": 269837,
+          "sha256": "a303b221b028c9767af67bda7f7d0ea437395b5be62dc8979fba971e1466b493"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Rules",
+          "start": 258187,
+          "end": 263190,
+          "sha256": "a4286c80805adfed5b18cfc023a0791141a237603d478c953a3054a25c98ce50"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 263190,
+          "end": 269837,
+          "sha256": "bd36810a9c7d7242d4e7c2955d8b549ca57d6fba642ff469a643db50294fc054"
+        },
+        {
+          "level": 3,
+          "heading": "19. GM Beginner Suitability",
+          "start": 269837,
+          "end": 285345,
+          "sha256": "0bbdbae13198ce4d14880f3ba2d2fd0fd06c222fd550f997433f686e5e4163f0"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Rules",
+          "start": 270799,
+          "end": 275765,
+          "sha256": "ac6df0a4fd42f73b038a7446efaa66a1871a04f85d4da2fa586b94e0aba9e907"
+        },
+        {
+          "level": 4,
+          "heading": "Calibration Benchmarks",
+          "start": 275765,
+          "end": 277192,
+          "sha256": "7c878d7fc49fbb530753d61836ca25bf4d659da1f43e2261b913f8e68c482bc9"
+        },
+        {
+          "level": 4,
+          "heading": "Adjacent-Boundary Calibration",
+          "start": 277192,
+          "end": 282138,
+          "sha256": "8c25da991efe8a33b339c21c08fbbaf05390f5187c2ecf8529ef822a7ca8678e"
+        },
+        {
+          "level": 4,
+          "heading": "Blind Validation and Adjudication Record",
+          "start": 282138,
+          "end": 285345,
+          "sha256": "a3825c81fc2a9e2e8e80f00dede312d44349d5137aab883a7bba488e3eb76975"
+        },
+        {
+          "level": 2,
+          "heading": "Working Status",
+          "start": 285345,
+          "end": 292190,
+          "sha256": "8c1572d7c3f704396af4d8e1f99d68f86464c4fa5bcf90be36ff288ee785ab8e"
+        },
+        {
+          "level": 2,
+          "heading": "Revision History",
+          "start": 292190,
+          "end": 339101,
+          "sha256": "927cd3e8e89d6cc80c128f3d731eccd9d2e78c94c11741a8ece77934d2a2e15a"
+        }
+      ],
+      "dimensions": [
+        {
+          "level": 3,
+          "heading": "1. # of Sessions",
+          "start": 9936,
+          "end": 10127,
+          "sha256": "f25b20732a7696e28db6d8c08ccc0142ed257687da0c7bba04e7513061e6e0fe"
+        },
+        {
+          "level": 3,
+          "heading": "2. Levels",
+          "start": 33972,
+          "end": 57026,
+          "sha256": "fe57194c31a083ceab67bfe231a2d8f179ac23545be0c7d2c7150833f4b77e1a"
+        },
+        {
+          "level": 3,
+          "heading": "3. Combat Emphasis",
+          "start": 62571,
+          "end": 73430,
+          "sha256": "68df87f1c85218e6592b92da751ccc1120a650fb5257c6a26171f03d882a3112"
+        },
+        {
+          "level": 3,
+          "heading": "4. Exploration Emphasis",
+          "start": 73430,
+          "end": 78859,
+          "sha256": "0b2753aabc50fe39652a3a39795bb7c6720ce1c9ad7b6aeb815c3e9490baa910"
+        },
+        {
+          "level": 3,
+          "heading": "5. Social Interaction Emphasis",
+          "start": 78859,
+          "end": 84086,
+          "sha256": "11ad7cfa293ad9a72dd23c3a4366e3b233af1e16e510faf052fce35133a4ac30"
+        },
+        {
+          "level": 3,
+          "heading": "6. Investigation Emphasis",
+          "start": 84086,
+          "end": 93271,
+          "sha256": "2b7e80bf46b1ec62acd38b2f777f33ad48e7f443c4c5bb987a79589adc5df78a"
+        },
+        {
+          "level": 3,
+          "heading": "7. Puzzle / Problem-Solving Emphasis",
+          "start": 93271,
+          "end": 101052,
+          "sha256": "0218d676ae959b40ed4d14744a0b9eb05d1bbf4731d4ad27bb98372fdd92cc36"
+        },
+        {
+          "level": 3,
+          "heading": "8. Tactical Complexity",
+          "start": 101052,
+          "end": 123828,
+          "sha256": "24ddfb5f5fcaf1c2a5316579ea285897185ce7422dab0080b6417fde0b4902f3"
+        },
+        {
+          "level": 3,
+          "heading": "9. Lethality / Failure Severity",
+          "start": 123828,
+          "end": 132332,
+          "sha256": "626166f8908ba80842ef360ece3bcc637a3942cc6b55316ea51927861244ac90"
+        },
+        {
+          "level": 3,
+          "heading": "10. Rules / System-Mastery Demand",
+          "start": 132332,
+          "end": 154279,
+          "sha256": "64ee229503448e8bc40b4941914c161d2e5c6fa376f52a7aea83afa047700231"
+        },
+        {
+          "level": 3,
+          "heading": "11. Structural Openness",
+          "start": 154279,
+          "end": 164924,
+          "sha256": "2a1fafd09cdfa9306db8af54f35bbb554df9135ce6ad4b7b4496d0021eb919f0"
+        },
+        {
+          "level": 3,
+          "heading": "12. Consequential Player Agency",
+          "start": 164924,
+          "end": 176965,
+          "sha256": "727799026fb2049f79c40bc6c7c94d2e84d0cf64965d71579a0c89979015c6c3"
+        },
+        {
+          "level": 3,
+          "heading": "13. Seriousness",
+          "start": 176965,
+          "end": 188976,
+          "sha256": "7c970048efa8a7a0c3deac985f7a88d47e21da31d4e5ec4257ec4e68a4766065"
+        },
+        {
+          "level": 3,
+          "heading": "14. Darkness / Horror Intensity",
+          "start": 188976,
+          "end": 205021,
+          "sha256": "f7b5ea19a6d030f20b6b0f1134ba1568b7f9886be00154716919fe932842f8c6"
+        },
+        {
+          "level": 3,
+          "heading": "15. Fantastic Weirdness",
+          "start": 205021,
+          "end": 223848,
+          "sha256": "a7958401f5d464636d31a4756dcc24fdd98f306418a5ae09a42d73ed5a0f1798"
+        },
+        {
+          "level": 3,
+          "heading": "16. GM Preparation Burden",
+          "start": 223848,
+          "end": 240571,
+          "sha256": "d32c02b6c6f4628342adc72bfce25d582a68966786283e099aca1a48ad7ab770"
+        },
+        {
+          "level": 3,
+          "heading": "17. GM Improvisation Demand",
+          "start": 240571,
+          "end": 257340,
+          "sha256": "9ba657568f9295d950b06a236c5b1223aad4a0fc100bde901e14f61053496ef1"
+        },
+        {
+          "level": 3,
+          "heading": "18. Player Beginner Suitability",
+          "start": 257340,
+          "end": 269837,
+          "sha256": "a303b221b028c9767af67bda7f7d0ea437395b5be62dc8979fba971e1466b493"
+        },
+        {
+          "level": 3,
+          "heading": "19. GM Beginner Suitability",
+          "start": 269837,
+          "end": 285345,
+          "sha256": "0bbdbae13198ce4d14880f3ba2d2fd0fd06c222fd550f997433f686e5e4163f0"
+        }
+      ],
+      "score_anchors": [
+        {
+          "dimension": "3. Combat Emphasis",
+          "score": 1,
+          "start": 62964,
+          "end": 63107,
+          "sha256": "a55404d584c8579e3e995af9254d2da28aa16e170d778404d5756637e77799e9"
+        },
+        {
+          "dimension": "3. Combat Emphasis",
+          "score": 2,
+          "start": 63107,
+          "end": 63195,
+          "sha256": "df10788c8542ced29cba81daef68b16f7414c1d5b0019688331725509c06afc8"
+        },
+        {
+          "dimension": "3. Combat Emphasis",
+          "score": 3,
+          "start": 63195,
+          "end": 63308,
+          "sha256": "388e6eecf31084e2770724bb1cde83fc66e98855422ebdb5039c0faf0953181f"
+        },
+        {
+          "dimension": "3. Combat Emphasis",
+          "score": 4,
+          "start": 63308,
+          "end": 63408,
+          "sha256": "9fcd6376114b757e2a1e5dbc73c66730b7ccb4b3d9e1993edd9565c17a4aac5c"
+        },
+        {
+          "dimension": "3. Combat Emphasis",
+          "score": 5,
+          "start": 63408,
+          "end": 63591,
+          "sha256": "5b400ba014282d78356ea66a99d23d71ac315085d444b0d00054057dcbdcedb9"
+        },
+        {
+          "dimension": "4. Exploration Emphasis",
+          "score": 1,
+          "start": 74166,
+          "end": 74363,
+          "sha256": "841699f610a0efee04f13d43bba8b39d90490c0d8900cd10717d0019e3c993be"
+        },
+        {
+          "dimension": "4. Exploration Emphasis",
+          "score": 2,
+          "start": 74363,
+          "end": 74496,
+          "sha256": "a985c81023894f9de0001f10a3bda216b3a57e67e0b8a0d47e7b9ae32dfd846b"
+        },
+        {
+          "dimension": "4. Exploration Emphasis",
+          "score": 3,
+          "start": 74496,
+          "end": 74620,
+          "sha256": "c21dc6101acb2b90e1c7a7f2bf01949c1093aa9fa8afd2ca7151f299a61922fc"
+        },
+        {
+          "dimension": "4. Exploration Emphasis",
+          "score": 4,
+          "start": 74620,
+          "end": 74803,
+          "sha256": "ede37eb8ebf3d40f06ae5821d6ebea18f05d6aea7d2a4ee6b010e3a10a1ea315"
+        },
+        {
+          "dimension": "4. Exploration Emphasis",
+          "score": 5,
+          "start": 74803,
+          "end": 75120,
+          "sha256": "1ab1006a99917523296df79bf546190246331fb67a9565f4339bc32f48bafbe9"
+        },
+        {
+          "dimension": "5. Social Interaction Emphasis",
+          "score": 1,
+          "start": 80059,
+          "end": 80257,
+          "sha256": "bf218c09e570e3ae12394ca14a18b30db3631498c32d50d92b16ad58e6b3c339"
+        },
+        {
+          "dimension": "5. Social Interaction Emphasis",
+          "score": 2,
+          "start": 80257,
+          "end": 80386,
+          "sha256": "c847e54ef3ae4c59ab7d16d9a3146d149710312e7333f81e075e119d29456df7"
+        },
+        {
+          "dimension": "5. Social Interaction Emphasis",
+          "score": 3,
+          "start": 80386,
+          "end": 80512,
+          "sha256": "3a7889970715b3c55c65f8e7961ed4f556e231408448fa3e29b2a07f60c8e9dc"
+        },
+        {
+          "dimension": "5. Social Interaction Emphasis",
+          "score": 4,
+          "start": 80512,
+          "end": 80758,
+          "sha256": "7144b1cd726c067d8c5a43aef536262d44d5475ae157028a3a9b861934c08c90"
+        },
+        {
+          "dimension": "5. Social Interaction Emphasis",
+          "score": 5,
+          "start": 80758,
+          "end": 81042,
+          "sha256": "a7d195b1ef8e7a3b5c47a26e024c9c508a54d7e972446129a1c1fec8f3c0002e"
+        },
+        {
+          "dimension": "6. Investigation Emphasis",
+          "score": 1,
+          "start": 86420,
+          "end": 86643,
+          "sha256": "7ece1e293669913c99796306c6d8077cebfd669d81fd91b8d2d46ecfde1018f6"
+        },
+        {
+          "dimension": "6. Investigation Emphasis",
+          "score": 2,
+          "start": 86643,
+          "end": 86778,
+          "sha256": "9919064e5476c17ab8e1b1bf5efb10e01bf9478a2245a510dcde6a4aa89b5ad1"
+        },
+        {
+          "dimension": "6. Investigation Emphasis",
+          "score": 3,
+          "start": 86778,
+          "end": 86906,
+          "sha256": "8037a784b730b4d1ffeaaefdeba5c22364ebb26fa2bf847647a79b712491beed"
+        },
+        {
+          "dimension": "6. Investigation Emphasis",
+          "score": 4,
+          "start": 86906,
+          "end": 87081,
+          "sha256": "99867a4b806559853ab12d938bdbf47080c9247df819cf65e5dd7d11e009a845"
+        },
+        {
+          "dimension": "6. Investigation Emphasis",
+          "score": 5,
+          "start": 87081,
+          "end": 87387,
+          "sha256": "26ceb4180a7108b148536a85dd888f214fea454783108c5937c94c89c50f5a61"
+        },
+        {
+          "dimension": "7. Puzzle / Problem-Solving Emphasis",
+          "score": 1,
+          "start": 95738,
+          "end": 95962,
+          "sha256": "36fa3a090c42ba73d78919c22271b6512e64d87e982822f6807c33e4c79f382f"
+        },
+        {
+          "dimension": "7. Puzzle / Problem-Solving Emphasis",
+          "score": 2,
+          "start": 95962,
+          "end": 96106,
+          "sha256": "02b30bb1bd34f6aa353f1e77c6ecd1f301161084bbdf6c8ad655858958673f12"
+        },
+        {
+          "dimension": "7. Puzzle / Problem-Solving Emphasis",
+          "score": 3,
+          "start": 96106,
+          "end": 96247,
+          "sha256": "061cb30ec3608787151ff6088d83c21078060d90d1d873ed3e38232f695f189a"
+        },
+        {
+          "dimension": "7. Puzzle / Problem-Solving Emphasis",
+          "score": 4,
+          "start": 96247,
+          "end": 96454,
+          "sha256": "9a2b25755193668345848d7a9305581edf244a62f63129ed4f0cb9060ed7b033"
+        },
+        {
+          "dimension": "7. Puzzle / Problem-Solving Emphasis",
+          "score": 5,
+          "start": 96454,
+          "end": 96769,
+          "sha256": "6aa90228d001eac28f50d2460c82de1da653bedc0f37179357096aea5d9844e6"
+        },
+        {
+          "dimension": "8. Tactical Complexity",
+          "score": 1,
+          "start": 104850,
+          "end": 105093,
+          "sha256": "4e105882fac419325086a00c455e2441344f555169ceef060661a0b25fe49ab9"
+        },
+        {
+          "dimension": "8. Tactical Complexity",
+          "score": 2,
+          "start": 105093,
+          "end": 105340,
+          "sha256": "2af5405a6af8a69bd14f97aac0aff90b922a8dd21b31f1702cc0d4a974e248a0"
+        },
+        {
+          "dimension": "8. Tactical Complexity",
+          "score": 3,
+          "start": 105340,
+          "end": 105754,
+          "sha256": "bb1f679b904875c6d49020a65140653e944ea100b63d77023d8408fd283d34bc"
+        },
+        {
+          "dimension": "8. Tactical Complexity",
+          "score": 4,
+          "start": 105754,
+          "end": 106282,
+          "sha256": "11ab3b9bdb77737a395cbc5cc8d98f5a7b6effd6ea928d7153fb0fb20235e1aa"
+        },
+        {
+          "dimension": "8. Tactical Complexity",
+          "score": 5,
+          "start": 106282,
+          "end": 106898,
+          "sha256": "4638d198e86758e21580442b6e20ede13a516c9399cb7912775a4d97d41182da"
+        },
+        {
+          "dimension": "9. Lethality / Failure Severity",
+          "score": 1,
+          "start": 125237,
+          "end": 125440,
+          "sha256": "4954125c2db0fe3abcfbfff25d3c11446ca67cb2a186d67905a644a7a9d98145"
+        },
+        {
+          "dimension": "9. Lethality / Failure Severity",
+          "score": 2,
+          "start": 125440,
+          "end": 125652,
+          "sha256": "c96b94643700d7b941b6e2f6da7fa9858f4d87cda4145a4a1ec5aad6b0ec569d"
+        },
+        {
+          "dimension": "9. Lethality / Failure Severity",
+          "score": 3,
+          "start": 125652,
+          "end": 125924,
+          "sha256": "39a22254f12b31c2c168610df3d786e40bb17c89ad30c06b82c7af5b8642ac9a"
+        },
+        {
+          "dimension": "9. Lethality / Failure Severity",
+          "score": 4,
+          "start": 125924,
+          "end": 126200,
+          "sha256": "39bc7542cff43ce4396d63e40ced4125b3391d01fb6db77dffc32135e7975612"
+        },
+        {
+          "dimension": "9. Lethality / Failure Severity",
+          "score": 5,
+          "start": 126200,
+          "end": 126525,
+          "sha256": "1c4de0af03f89fae707cec9fbfd9179369035aa4f8043768bd18ef9dc6a9dfa9"
+        },
+        {
+          "dimension": "10. Rules / System-Mastery Demand",
+          "score": 1,
+          "start": 137717,
+          "end": 138090,
+          "sha256": "d03f0f2296fe7a267c3b9dde2f9827574ecd5b6a7b70f616020d4fc0d2b10f2e"
+        },
+        {
+          "dimension": "10. Rules / System-Mastery Demand",
+          "score": 2,
+          "start": 138090,
+          "end": 138487,
+          "sha256": "44008b743f1d10c502587e75177b03cd89e43fe80a43aadcf27ba635eaaebfb2"
+        },
+        {
+          "dimension": "10. Rules / System-Mastery Demand",
+          "score": 3,
+          "start": 138487,
+          "end": 138991,
+          "sha256": "833988cbf6c5b92f0c2e3e13bf99b8bc9baa612fbc311a3f109c6235eb1ab706"
+        },
+        {
+          "dimension": "10. Rules / System-Mastery Demand",
+          "score": 4,
+          "start": 138991,
+          "end": 139654,
+          "sha256": "a1e2676cd04abed4d3343f9b6bc6514a51232549886f5eb9a2cf1520f8507ca9"
+        },
+        {
+          "dimension": "10. Rules / System-Mastery Demand",
+          "score": 5,
+          "start": 139654,
+          "end": 140398,
+          "sha256": "8427ab51dda5662026da9fbf8fc37d1125e4bc609fb0c994cbefe6f23362bd1c"
+        },
+        {
+          "dimension": "11. Structural Openness",
+          "score": 1,
+          "start": 156474,
+          "end": 156663,
+          "sha256": "d0ebd0301663583f07cf9b11c93548655811c73c030d28615fad22439322c857"
+        },
+        {
+          "dimension": "11. Structural Openness",
+          "score": 2,
+          "start": 156663,
+          "end": 156845,
+          "sha256": "8537d133a5d098ea6ecc00512dced99e66fdd77bea18d02d8345109189c7ea3f"
+        },
+        {
+          "dimension": "11. Structural Openness",
+          "score": 3,
+          "start": 156845,
+          "end": 157058,
+          "sha256": "32e75ec6979dc13e69edffe363f8fa321e2995255b0520db794b86bf8fc383db"
+        },
+        {
+          "dimension": "11. Structural Openness",
+          "score": 4,
+          "start": 157058,
+          "end": 157280,
+          "sha256": "db7be8e0f08afe5ce24c7bb92a8c3310ba87cd1ad3f912dd6bb385a0a4a0f39c"
+        },
+        {
+          "dimension": "11. Structural Openness",
+          "score": 5,
+          "start": 157280,
+          "end": 157499,
+          "sha256": "c1e55724ea52e7877acf9668289f635cec81f3803c28bd962b7bb3a8fba37d6c"
+        },
+        {
+          "dimension": "12. Consequential Player Agency",
+          "score": 1,
+          "start": 168062,
+          "end": 168299,
+          "sha256": "dd593ca4651b08b6a96178c1e402f2aa3ab69385b4171219622b2c12578374b3"
+        },
+        {
+          "dimension": "12. Consequential Player Agency",
+          "score": 2,
+          "start": 168299,
+          "end": 168566,
+          "sha256": "d19fd1f96098c158460addd90c77b29612fa8ef59cb74ba4f268f3dc4b52f4c1"
+        },
+        {
+          "dimension": "12. Consequential Player Agency",
+          "score": 3,
+          "start": 168566,
+          "end": 168888,
+          "sha256": "475c459dc5e0d3ea1582b938c4325f7d50d01212d1929723421d9747ac6e2738"
+        },
+        {
+          "dimension": "12. Consequential Player Agency",
+          "score": 4,
+          "start": 168888,
+          "end": 169195,
+          "sha256": "db0dfdaea1f12be082459a366746d4f142f4472ef293e01c0bcf2eaef7983d11"
+        },
+        {
+          "dimension": "12. Consequential Player Agency",
+          "score": 5,
+          "start": 169195,
+          "end": 169559,
+          "sha256": "4b18e823753266fb2580a7b11fdb4d098351cf02b1789cddb617259dad24b170"
+        },
+        {
+          "dimension": "13. Seriousness",
+          "score": 1,
+          "start": 177743,
+          "end": 177962,
+          "sha256": "81859cef4e63621c7581babb5ada2e4cda76015a6c3edf9f77145659c497278d"
+        },
+        {
+          "dimension": "13. Seriousness",
+          "score": 2,
+          "start": 177962,
+          "end": 178097,
+          "sha256": "d5645d3fc111fe7d393c142b235a40dbdfc77d2822ef05f4fa243bb01afd1e20"
+        },
+        {
+          "dimension": "13. Seriousness",
+          "score": 3,
+          "start": 178097,
+          "end": 178310,
+          "sha256": "c6fc2236e331166054e7031a21274b633ca273686fa27fe7b8559ee4bc07cc4c"
+        },
+        {
+          "dimension": "13. Seriousness",
+          "score": 4,
+          "start": 178310,
+          "end": 178496,
+          "sha256": "6bdfabf25f7e54c12e350de21fcace1d65bbb0990990304b0a91b6805a9560c2"
+        },
+        {
+          "dimension": "13. Seriousness",
+          "score": 5,
+          "start": 178496,
+          "end": 178755,
+          "sha256": "295f55ff5d40bc1b84b8b23406888173ef9925d05f40f7ef268489b68d362445"
+        },
+        {
+          "dimension": "14. Darkness / Horror Intensity",
+          "score": 1,
+          "start": 190356,
+          "end": 190547,
+          "sha256": "fdb39284ebfd4b3ff7946561b2ecd64ffe3fb0ebd1f8b901f0bbbb0b93bf3d22"
+        },
+        {
+          "dimension": "14. Darkness / Horror Intensity",
+          "score": 2,
+          "start": 190547,
+          "end": 190724,
+          "sha256": "4640df91d4e2a59be30abb76385468fd65a39290e36c4e2ebe33267e3d4da039"
+        },
+        {
+          "dimension": "14. Darkness / Horror Intensity",
+          "score": 3,
+          "start": 190724,
+          "end": 190896,
+          "sha256": "5cd687e72fc196a749f02d03adde471134e26ce26aa5dbfbe652e006b4897c2c"
+        },
+        {
+          "dimension": "14. Darkness / Horror Intensity",
+          "score": 4,
+          "start": 190896,
+          "end": 191110,
+          "sha256": "f1f67fecc1c5f2b7d4f6a6a0a29614e72b27a0929a4de4bb724708fc07451563"
+        },
+        {
+          "dimension": "14. Darkness / Horror Intensity",
+          "score": 5,
+          "start": 191110,
+          "end": 191377,
+          "sha256": "757507729237a58e99ef15b7f50a13caef6f934837ee0313723093545127637c"
+        },
+        {
+          "dimension": "15. Fantastic Weirdness",
+          "score": 1,
+          "start": 207236,
+          "end": 207452,
+          "sha256": "5debeb430eef46cfcbaac219662c5eb9b09e23aa3039feaa8932647201a369e1"
+        },
+        {
+          "dimension": "15. Fantastic Weirdness",
+          "score": 2,
+          "start": 207452,
+          "end": 207632,
+          "sha256": "88aaaf140efd8c4b257ff33dc677e255cf2f382d96408b35d42b84a07c26f18c"
+        },
+        {
+          "dimension": "15. Fantastic Weirdness",
+          "score": 3,
+          "start": 207632,
+          "end": 207865,
+          "sha256": "e2aa1cfeb4b22430d07f8f3c7f9ab61b3f607ba8077502e297d678ac0a997394"
+        },
+        {
+          "dimension": "15. Fantastic Weirdness",
+          "score": 4,
+          "start": 207865,
+          "end": 208132,
+          "sha256": "7b44cc731e6b249ba1ee5ed522ee1855402acd9008ffdd2b4619f99604c13620"
+        },
+        {
+          "dimension": "15. Fantastic Weirdness",
+          "score": 5,
+          "start": 208132,
+          "end": 208464,
+          "sha256": "d6fb6df3c699f7889958c0c9f2cfce66fbf1914bde185ade7b5412114cff381f"
+        },
+        {
+          "dimension": "16. GM Preparation Burden",
+          "score": 1,
+          "start": 226954,
+          "end": 227272,
+          "sha256": "eca76a7b55aec5d5a46c1605c6336450e7ef5d4ec22d128a5dad89d0bfcde762"
+        },
+        {
+          "dimension": "16. GM Preparation Burden",
+          "score": 2,
+          "start": 227272,
+          "end": 227576,
+          "sha256": "ff53cb86092ea529274de1ba4160dfd181e1f97e90679106720d09cc7896a806"
+        },
+        {
+          "dimension": "16. GM Preparation Burden",
+          "score": 3,
+          "start": 227576,
+          "end": 227897,
+          "sha256": "24044b0cd8bd9b431af1dc0d2e62290119d49d8f70caec2e212b062fefbe36d2"
+        },
+        {
+          "dimension": "16. GM Preparation Burden",
+          "score": 4,
+          "start": 227897,
+          "end": 228273,
+          "sha256": "6301e73e40cd4f0ba29ee7e9744682f4ed0750c6a25ef79085b0ae7269827ecf"
+        },
+        {
+          "dimension": "16. GM Preparation Burden",
+          "score": 5,
+          "start": 228273,
+          "end": 228692,
+          "sha256": "5e215da5b1399ccf74d8afdbc72f0e8b1c3b7a812e8b8f075ccd30a0436c547c"
+        },
+        {
+          "dimension": "17. GM Improvisation Demand",
+          "score": 1,
+          "start": 244851,
+          "end": 245128,
+          "sha256": "bab2dfa2c74d5440260851170f4574a7856f2736df7601fbd133ad349cc66102"
+        },
+        {
+          "dimension": "17. GM Improvisation Demand",
+          "score": 2,
+          "start": 245128,
+          "end": 245360,
+          "sha256": "820bc2e92dd406275b73c397693d490374ebb373ae8d092276856c9d5b53e173"
+        },
+        {
+          "dimension": "17. GM Improvisation Demand",
+          "score": 3,
+          "start": 245360,
+          "end": 245634,
+          "sha256": "0d73c62fa4d63050cd21ef14628f4fd3d1416d81cb50deac7306ad2be9eb2c1f"
+        },
+        {
+          "dimension": "17. GM Improvisation Demand",
+          "score": 4,
+          "start": 245634,
+          "end": 245930,
+          "sha256": "9dd8b9e0e76057a48b4340bfadaa58f92b703790f00f66a268ebbaeada66d916"
+        },
+        {
+          "dimension": "17. GM Improvisation Demand",
+          "score": 5,
+          "start": 245930,
+          "end": 246450,
+          "sha256": "dea7658eaaaaa785bfe41d0c777644bef43264938ef59dc95123f347b4f94efd"
+        },
+        {
+          "dimension": "18. Player Beginner Suitability",
+          "score": 1,
+          "start": 260851,
+          "end": 261279,
+          "sha256": "6afb12e53c8377e02c5d9f752a81f049e614cb725baa8fff61e2613f426d855f"
+        },
+        {
+          "dimension": "18. Player Beginner Suitability",
+          "score": 2,
+          "start": 261279,
+          "end": 261662,
+          "sha256": "f9213da8a17569571d8f9cba65cc5b6e14d1c1579c117dbfaba326fadf024f32"
+        },
+        {
+          "dimension": "18. Player Beginner Suitability",
+          "score": 3,
+          "start": 261662,
+          "end": 262029,
+          "sha256": "0d0e8ffa35827f32e5f34cdf6e345a8220e3bbeef21cd80fff264c961fc29c3f"
+        },
+        {
+          "dimension": "18. Player Beginner Suitability",
+          "score": 4,
+          "start": 262029,
+          "end": 262447,
+          "sha256": "8caa08f65fe928207ad52ac1aa278a1cd9883138f6aefcacc8c6b2031e06814c"
+        },
+        {
+          "dimension": "18. Player Beginner Suitability",
+          "score": 5,
+          "start": 262447,
+          "end": 262913,
+          "sha256": "2ef950d49d98ced626b56a1c0c18b270dfbcbd102376ac0a43a9efc3aac71793"
+        },
+        {
+          "dimension": "19. GM Beginner Suitability",
+          "score": 1,
+          "start": 273804,
+          "end": 274127,
+          "sha256": "5c516286ee83f74c94dd1b5bef4ece9a292878da346f5384814f5abb2d5543a2"
+        },
+        {
+          "dimension": "19. GM Beginner Suitability",
+          "score": 2,
+          "start": 274127,
+          "end": 274462,
+          "sha256": "b23f2495a70a16bf49312bdc937e308ad935ce41726f7e3bd6a0c8655fca0d65"
+        },
+        {
+          "dimension": "19. GM Beginner Suitability",
+          "score": 3,
+          "start": 274462,
+          "end": 274738,
+          "sha256": "9ae2962db8da664d5feae61614ba43340e4e5938fb8ea707e49e2c0d68956946"
+        },
+        {
+          "dimension": "19. GM Beginner Suitability",
+          "score": 4,
+          "start": 274738,
+          "end": 275074,
+          "sha256": "a498a364ce0f4bb9ad0c338851a5d2ce8e2b205106d9acf5093bea40a709bfdc"
+        },
+        {
+          "dimension": "19. GM Beginner Suitability",
+          "score": 5,
+          "start": 275074,
+          "end": 275457,
+          "sha256": "e9d3c5d54eeca0d084ad34473965322c823f6466f4aa9586aaa37a1823580d65"
+        }
+      ],
+      "version_heading": "1.6.1"
+    },
+    {
+      "path": "AdventureFinder_Analysis_Data_Assessment_Specification_v0.1.md",
+      "version": "Version 0.1",
+      "mode": "100644",
+      "bytes": 48244,
+      "sha256": "bbd90a20daafb58c3daee3af758972f09f658b271086e95060ce01df44197ad0",
+      "sections": [
+        {
+          "level": 1,
+          "heading": "AdventureFinder",
+          "start": 0,
+          "end": 19,
+          "sha256": "30345670bacc42ce1b053eb3eac17951b0ad265baff45d9014ef6f36e982c4e3"
+        },
+        {
+          "level": 1,
+          "heading": "Analysis Data / Assessment Specification",
+          "start": 19,
+          "end": 13270,
+          "sha256": "e4cc29bba040545b3abd15638aafd0399fb812ac8e4fcc8db26a27b1ab88c905"
+        },
+        {
+          "level": 2,
+          "heading": "Version 0.1",
+          "start": 63,
+          "end": 388,
+          "sha256": "eebad77e0170bbb0bdc7bcbf2776694bf7e36a34f7dfb4f1dbaba1a47881d06d"
+        },
+        {
+          "level": 2,
+          "heading": "1. Purpose",
+          "start": 388,
+          "end": 1689,
+          "sha256": "57066332805662166b7f0177b7ce5b292d2cc817ce0a4a1f531cfdb913211979"
+        },
+        {
+          "level": 2,
+          "heading": "2. Scope and Authority",
+          "start": 1689,
+          "end": 3802,
+          "sha256": "de073748aa2741860facae9f83cb8234039ba0957cf4aa45e05b9727532c6b73"
+        },
+        {
+          "level": 2,
+          "heading": "3. Governing Principles",
+          "start": 3802,
+          "end": 7223,
+          "sha256": "ecd52a03a8ac620da873caf1cb09b41f9c69db7d60f78d79bfd901720eee8b7c"
+        },
+        {
+          "level": 3,
+          "heading": "3.1 Canonical Adventure Identity",
+          "start": 3914,
+          "end": 4516,
+          "sha256": "bb8c243fb8488e0a97b25c351c3e2d9f88ce46da46b734b8ef5dce3b43407ced"
+        },
+        {
+          "level": 3,
+          "heading": "3.2 Full-Source, Evidence-Based Assessment",
+          "start": 4516,
+          "end": 4909,
+          "sha256": "2cea231b97bd0bac0c94d1834dab2a56121fce0df5f15086447438930f13b81b"
+        },
+        {
+          "level": 3,
+          "heading": "3.3 Substantially-as-Published Play",
+          "start": 4909,
+          "end": 5346,
+          "sha256": "610b149e456aa59b20081d0f4c51dfd0636fb6ccf58ab2f851fe5e9afab11553"
+        },
+        {
+          "level": 3,
+          "heading": "3.4 Expected Table Play Over Document Form",
+          "start": 5346,
+          "end": 5681,
+          "sha256": "b40ed6112be54bdfc83a840fd27cf1275dc9148eff6ce4824eb23b0f308453e2"
+        },
+        {
+          "level": 3,
+          "heading": "3.5 Dimension Independence",
+          "start": 5681,
+          "end": 6225,
+          "sha256": "93ad7c8cb52b26cb113d795a9d61e1a9c136d1fe5dd6c365ce3c775ca455e5e5"
+        },
+        {
+          "level": 3,
+          "heading": "3.6 Best-Supported Assessment Rather Than Central-Tendency Bias",
+          "start": 6225,
+          "end": 6566,
+          "sha256": "b769daf23823fe22b8db6f49f5552e32b51e2f2189de91ce14d443faeb6c9a76"
+        },
+        {
+          "level": 3,
+          "heading": "3.7 Auditability",
+          "start": 6566,
+          "end": 6987,
+          "sha256": "db04f981daa3ec2db68b7da6e6483666e968fc7492952165365ba8a426e3b019"
+        },
+        {
+          "level": 3,
+          "heading": "3.8 No Silent Mutation",
+          "start": 6987,
+          "end": 7223,
+          "sha256": "939b3c111875aa083dfe23e538172e0a94da6a206f15afc1946954ff56728857"
+        },
+        {
+          "level": 2,
+          "heading": "4. Canonical Assessment Unit",
+          "start": 7223,
+          "end": 8186,
+          "sha256": "465185e542fa4084343f70996e334beb68c20a196578a96501d7fb58208c0ae2"
+        },
+        {
+          "level": 2,
+          "heading": "5. Logical Assessment Model",
+          "start": 8186,
+          "end": 12371,
+          "sha256": "91815aec746c60a962a2d9b12e0af2da959613ab52eacd1f3e1e52e11002a477"
+        },
+        {
+          "level": 3,
+          "heading": "5.1 Adventure Assessment Package Metadata",
+          "start": 8218,
+          "end": 9356,
+          "sha256": "7475630a5908cd6a63e8b4c65c73c830d7ca2fca0f4783243494813c4e04e1e5"
+        },
+        {
+          "level": 3,
+          "heading": "5.2 Canonical Matching Values",
+          "start": 9356,
+          "end": 9974,
+          "sha256": "52b5a7e97478e5c3b94b0d0e7a6e75de1c6bd7f32fedd26e8f0a79139c1e3960"
+        },
+        {
+          "level": 3,
+          "heading": "5.3 Interpretive Dimension Assessments",
+          "start": 9974,
+          "end": 11133,
+          "sha256": "63768a636d377d0fe58f90d0580b5a090ea57eb9a056ce7d320e5917221c8d4d"
+        },
+        {
+          "level": 3,
+          "heading": "5.4 Evidence Items",
+          "start": 11133,
+          "end": 11882,
+          "sha256": "317e2556cb0d1c7c03f1fa7ecaddb3ccd27967ec090a07ae489d3885d3222b96"
+        },
+        {
+          "level": 3,
+          "heading": "5.5 Audit Events",
+          "start": 11882,
+          "end": 12371,
+          "sha256": "c7865465116b098b3082be0e3a67f4e830e0b7faa456a4259e8353616e0c1679"
+        },
+        {
+          "level": 2,
+          "heading": "6. Assessment States and Null Semantics",
+          "start": 12371,
+          "end": 13270,
+          "sha256": "26102e26eb25a9bfeded51081add166f9fff2a2a076b96d83367cc967c3f5c0f"
+        },
+        {
+          "level": 3,
+          "heading": "6.1 Interpretive Dimensions",
+          "start": 12547,
+          "end": 13247,
+          "sha256": "64985554ba243e56f2ff5a8e0eb02ac47377fd766f8c8a0cb6d6c9af93c31fb1"
+        },
+        {
+          "level": 3,
+          "heading": "6.2 # of Sessions",
+          "start": 13247,
+          "end": 13270,
+          "sha256": "e750a8870b6f71f190b79d6ec210da889fac74cce753b2df9709eaae4aa79766"
+        },
+        {
+          "level": 1,
+          "heading": "of Sessions follows the AFAO assessment-state rules for that matching dimension:",
+          "start": 13270,
+          "end": 48244,
+          "sha256": "a5150f8eaf4e88d8dc5111319016a089af17d25bdb8d380e9458ef0caf84f102"
+        },
+        {
+          "level": 3,
+          "heading": "6.3 Level Start and Level End",
+          "start": 13655,
+          "end": 14179,
+          "sha256": "8c648776fc7ae84ec085b53fec6bd93bfc518a8f73f52fb5e9e84b0591d59305"
+        },
+        {
+          "level": 3,
+          "heading": "6.4 Blank Is Not Zero",
+          "start": 14179,
+          "end": 14428,
+          "sha256": "a266166007fb3661957b2a31cf0fe8f4d060aa71fb2853c452f8fc54e05114c4"
+        },
+        {
+          "level": 2,
+          "heading": "7. Source Basis and Evidence Requirements",
+          "start": 14428,
+          "end": 17571,
+          "sha256": "8a9edb0299136c0bf64acfe6e2ff8c55a90af90050b4adadf8d0c6a9debbbc5d"
+        },
+        {
+          "level": 3,
+          "heading": "7.1 Source Hierarchy",
+          "start": 14474,
+          "end": 15500,
+          "sha256": "406d8869ff1273cf0e3ecd18156dc355424f3ea393c7c4f50f975e7b7346ca66"
+        },
+        {
+          "level": 3,
+          "heading": "7.2 Full Relevant Source Requirement",
+          "start": 15500,
+          "end": 16471,
+          "sha256": "a6bb94c1133be7be99c5886d89c809585a0209bb13b228b90e75c25e6a939dd2"
+        },
+        {
+          "level": 3,
+          "heading": "7.3 Context Outside the Canonical Boundary",
+          "start": 16471,
+          "end": 16915,
+          "sha256": "d4bcfecf2c3cf35c80a9376645bf4eb9aeb3e30254181c9b105c959374c81e63"
+        },
+        {
+          "level": 3,
+          "heading": "7.4 Source Completeness",
+          "start": 16915,
+          "end": 17571,
+          "sha256": "74a225efafc409d983a8233db3047729501cc01948772d1de776c4a109a8581d"
+        },
+        {
+          "level": 2,
+          "heading": "8. Production Assessment Protocol",
+          "start": 17571,
+          "end": 24823,
+          "sha256": "c519c1702aab18a7a051684abc9269b40f442dab4e2958ed09f6d251c9d637da"
+        },
+        {
+          "level": 3,
+          "heading": "Step 1 — Confirm the Canonical Target",
+          "start": 17694,
+          "end": 18223,
+          "sha256": "f982dc5637dddcd81fde57942c5f2d0812f2d6ff146a95b23bc5726668f4c46a"
+        },
+        {
+          "level": 3,
+          "heading": "Step 2 — Confirm the Governing Versions",
+          "start": 18223,
+          "end": 18577,
+          "sha256": "517495b3d7e01b282c3c4f2375ccef7e2188a336a1b2a22f82dde28204301731"
+        },
+        {
+          "level": 3,
+          "heading": "Step 3 — Establish the Source Basis",
+          "start": 18577,
+          "end": 18802,
+          "sha256": "1d053e8c4e4dfb0128ea6f00d4a4b0dc692367bdb91182d4ee96675b613d4c76"
+        },
+        {
+          "level": 3,
+          "heading": "Step 4 — Perform Full-Source Structural Review",
+          "start": 18802,
+          "end": 19374,
+          "sha256": "d684ec037667c6874138b47f574b2010225504a44436d3c9e0d96f354afced09"
+        },
+        {
+          "level": 3,
+          "heading": "Step 5 — Assess # of Sessions",
+          "start": 19374,
+          "end": 19816,
+          "sha256": "b1203319f202dfefa2b2f3e4233d9fef6611fe0680aadf115ae555a2ba515d78"
+        },
+        {
+          "level": 3,
+          "heading": "Step 6 — Assess Level Start",
+          "start": 19816,
+          "end": 20150,
+          "sha256": "151522e7997aba7daf36201e34080b333aa6af37ea512c8347d99952726486fd"
+        },
+        {
+          "level": 3,
+          "heading": "Step 7 — Assess Level End",
+          "start": 20150,
+          "end": 20699,
+          "sha256": "07eed71ab0e4c24469a0713bcd4d299a0baec97d94d6386f59116416fde8b70a"
+        },
+        {
+          "level": 3,
+          "heading": "Step 8 — Assess Each Interpretive Dimension Independently",
+          "start": 20699,
+          "end": 21403,
+          "sha256": "c99611b54c9bec39986a071ba27ffa9681ad428ae84a7d3d5c1dc76a501dbcca"
+        },
+        {
+          "level": 3,
+          "heading": "Step 9 — Perform Adjacent-Anchor Falsification",
+          "start": 21403,
+          "end": 22078,
+          "sha256": "25958ee953fb64bd2d88e95b29c678097000b66194a4cd4a6b84301c66f2f2dd"
+        },
+        {
+          "level": 3,
+          "heading": "Step 10 — Perform Path-Sensitivity Review",
+          "start": 22078,
+          "end": 22710,
+          "sha256": "8b459c583f9b97284a94e2da70da6c9d6173d9adc4a9ff19f2495c5edea0f9d9"
+        },
+        {
+          "level": 3,
+          "heading": "Step 11 — Perform Confidence Review",
+          "start": 22710,
+          "end": 23336,
+          "sha256": "056c6547c12979f8831b11dfa070c5b107ec4c4bf5ac3836ae589f87ae7463eb"
+        },
+        {
+          "level": 3,
+          "heading": "Step 12 — Record Rationale and Evidence",
+          "start": 23336,
+          "end": 23867,
+          "sha256": "8f56e2b568440f324e437d934ed1f548b7e474b2f1380d58f48e57cc0e4e7f64"
+        },
+        {
+          "level": 3,
+          "heading": "Step 13 — Conduct Package-Level Quality Control",
+          "start": 23867,
+          "end": 24697,
+          "sha256": "e8c0dce7f383e95c3b3850c2fc9dad209c8640fb70247ab928e65ede319cd28a"
+        },
+        {
+          "level": 3,
+          "heading": "Step 14 — Determine Review Disposition",
+          "start": 24697,
+          "end": 24823,
+          "sha256": "cedd492101891862b00e85fd4461dfe5ea1d4b2aef3c57662996a5643c862232"
+        },
+        {
+          "level": 2,
+          "heading": "9. Confidence Guidance",
+          "start": 24823,
+          "end": 26834,
+          "sha256": "8a8c6455e42cad0d8255d9984c1e5107fb7cd775df4ffcd4efa6200a0d2d9c3c"
+        },
+        {
+          "level": 3,
+          "heading": "9.1 Meaning",
+          "start": 24850,
+          "end": 25205,
+          "sha256": "b1c2525748f1165b74b570a57cd5045f4c18842ea00e1bc31d371abbd8dfcd0c"
+        },
+        {
+          "level": 3,
+          "heading": "9.2 Confidence Is Supporting Metadata",
+          "start": 25205,
+          "end": 25559,
+          "sha256": "05ef6287cd9daf447792a2372d8485ce042ac264d85aba5ed9541e9d9d6b7069"
+        },
+        {
+          "level": 3,
+          "heading": "9.3 Guidance Bands",
+          "start": 25559,
+          "end": 26421,
+          "sha256": "3f954127d0440fa8e12e14de88eb9e59d894e23720b173e2915668d8930288e7"
+        },
+        {
+          "level": 3,
+          "heading": "9.4 Review Threshold",
+          "start": 26421,
+          "end": 26834,
+          "sha256": "c96049c3957ff8095626f325f196cb9bf313be68578c027ad70a9e88072b0dd7"
+        },
+        {
+          "level": 2,
+          "heading": "10. Path-Sensitivity Guidance",
+          "start": 26834,
+          "end": 28557,
+          "sha256": "14c2488955f76b8bf8be112fd103491c03028a07dcc2908e9dbafc358e91e81e"
+        },
+        {
+          "level": 3,
+          "heading": "10.1 Definition",
+          "start": 26868,
+          "end": 27233,
+          "sha256": "bd66c6566aa26c37d2ebb742637de0f5f4283f7d869e5fd83382983aee8b7d74"
+        },
+        {
+          "level": 3,
+          "heading": "10.2 What Qualifies",
+          "start": 27233,
+          "end": 27749,
+          "sha256": "51d0441287445e4a8bf8c5f043dcd71d0d6bb2bf590ac55e3ea9dafb65796ed3"
+        },
+        {
+          "level": 3,
+          "heading": "10.3 What Does Not Qualify by Itself",
+          "start": 27749,
+          "end": 28177,
+          "sha256": "e5fcc73e770e586145073a680df4dd3490ecafd1895abf6ade4a33f36ffbce71"
+        },
+        {
+          "level": 3,
+          "heading": "10.4 Canonical Score Under Path Sensitivity",
+          "start": 28177,
+          "end": 28557,
+          "sha256": "23cae584a789145d5612efaabb3f6b76e6b4df56cbb3855efdb0d51a1e276bf6"
+        },
+        {
+          "level": 2,
+          "heading": "11. Rationale and Evidence Provenance",
+          "start": 28557,
+          "end": 30028,
+          "sha256": "adb5f5e6c6e6c045186259c003d02ac2335f5c23c686f09a686dc079391b9964"
+        },
+        {
+          "level": 3,
+          "heading": "11.1 Rationale Requirement",
+          "start": 28599,
+          "end": 28892,
+          "sha256": "2889b377df9809fe3224c7b28d6add6d738cb43c7064795a34e344a347cf7618"
+        },
+        {
+          "level": 3,
+          "heading": "11.2 Rationale Content",
+          "start": 28892,
+          "end": 29261,
+          "sha256": "659636f4fcb1e1fb199df7f58223324ef1d63790662b7ca16887892425a3760b"
+        },
+        {
+          "level": 3,
+          "heading": "11.3 Evidence Pointers",
+          "start": 29261,
+          "end": 29744,
+          "sha256": "ab4c0142a2623a93689c6b37cae509eb923d52259a06d6976def0af9dfaeb2e2"
+        },
+        {
+          "level": 3,
+          "heading": "11.4 No Exhaustive Annotation Requirement",
+          "start": 29744,
+          "end": 30028,
+          "sha256": "3be9020da4b31e1172ca945ecfa05bf5228c5abbece9cb2b912ddd4421bf0988"
+        },
+        {
+          "level": 2,
+          "heading": "12. Quality Control and Review Disposition",
+          "start": 30028,
+          "end": 32674,
+          "sha256": "76826b063f59dcf9eb532ef1e396e0e0d820bb35ce464be37b1a90c64a7eab9c"
+        },
+        {
+          "level": 3,
+          "heading": "12.1 Package Lifecycle States",
+          "start": 30075,
+          "end": 30755,
+          "sha256": "2ae31266b34848bf9a2c7833c70c1c5dd2f87591c707b2c855b0dd50084cfa4c"
+        },
+        {
+          "level": 3,
+          "heading": "12.2 Review Triggers",
+          "start": 30755,
+          "end": 31708,
+          "sha256": "f6ff8cb36abd5621056e927d886a4b0ddaec9bb2790c4014e420e4418eb46f29"
+        },
+        {
+          "level": 3,
+          "heading": "12.3 Path Sensitivity Alone Is Not a Defect",
+          "start": 31708,
+          "end": 32049,
+          "sha256": "97b64d0ad00fb22587748ef23c4c4c94f501dd37e11bb26626eb8283e7b5abf6"
+        },
+        {
+          "level": 3,
+          "heading": "12.4 Acceptance Authority",
+          "start": 32049,
+          "end": 32674,
+          "sha256": "c0bf6c63fca313f54e4e3e65c63ab0731642cebd101babfd77083159fd6c272d"
+        },
+        {
+          "level": 2,
+          "heading": "13. Blindness and Anti-Bias Requirements",
+          "start": 32674,
+          "end": 34219,
+          "sha256": "683a9942cd673385be26edb361caee3bba2caf5cb09ad4ff822d2eb3abea21f3"
+        },
+        {
+          "level": 3,
+          "heading": "13.1 Production Scoring Independence",
+          "start": 32719,
+          "end": 33284,
+          "sha256": "4cfc6f7f6bfd41162e490bf4e2651ca2348c34ebccb31c8cbd0c358f37fdfa79"
+        },
+        {
+          "level": 3,
+          "heading": "13.2 Calibration Benchmarks",
+          "start": 33284,
+          "end": 33672,
+          "sha256": "f138cdd9954a6b91974afda4f3122af9bc7007ab8fcf9e80c62712b785f0fa30"
+        },
+        {
+          "level": 3,
+          "heading": "13.3 Regression Tests",
+          "start": 33672,
+          "end": 34219,
+          "sha256": "5bc5a0a0e581afee236bea9e826f657954e255a3ec93adf0494bdf6ccee9eaca"
+        },
+        {
+          "level": 2,
+          "heading": "14. Corrections, Adjudication, and Supersession",
+          "start": 34219,
+          "end": 36510,
+          "sha256": "f8addfec980795203905b80b862ed9957ea058afa2e6918a0dcd752400f44487"
+        },
+        {
+          "level": 3,
+          "heading": "14.1 Assessment Correction",
+          "start": 34271,
+          "end": 34974,
+          "sha256": "7b185655216b654396766015d832ea8062beeabf1ee949ef576b669fb2a380a9"
+        },
+        {
+          "level": 3,
+          "heading": "14.2 Adjudication",
+          "start": 34974,
+          "end": 35608,
+          "sha256": "2f40fc8bd2383840eda3fb6ec458af77092c4cbcc6ada0b2258e53c81db1476e"
+        },
+        {
+          "level": 3,
+          "heading": "14.3 Ontology Migration",
+          "start": 35608,
+          "end": 36225,
+          "sha256": "74519595a9d95b240944fb8fb48e67868e6422d7f99a6197fc9a5ed74f0446f2"
+        },
+        {
+          "level": 3,
+          "heading": "14.4 Supersession",
+          "start": 36225,
+          "end": 36510,
+          "sha256": "afb801120bb573baceff196290d749662926dae0a67c928dba8add213f51ada6"
+        },
+        {
+          "level": 2,
+          "heading": "15. Versioning Requirements",
+          "start": 36510,
+          "end": 37810,
+          "sha256": "99d6b0e919e17ecdc7eb09a37eb56f19d7e8754989d6f12af19de037127f1cf9"
+        },
+        {
+          "level": 3,
+          "heading": "15.1 AFAO Version",
+          "start": 36630,
+          "end": 36861,
+          "sha256": "796e0f636b2cd0d655fb69791d354caffe2eee71b1f793d5050c3c9602770189"
+        },
+        {
+          "level": 3,
+          "heading": "15.2 Assessment Specification Version",
+          "start": 36861,
+          "end": 37316,
+          "sha256": "23c77a2c53e761ae2779f2ef72d3f6425b90f6325668d5e8cb5c690179478376"
+        },
+        {
+          "level": 3,
+          "heading": "15.3 Source Version / Source Basis",
+          "start": 37316,
+          "end": 37810,
+          "sha256": "b6887d2aabc6afaa55f4c99a1683bc8ffe16cfd1f30889bf1f979db51f0e1eca"
+        },
+        {
+          "level": 2,
+          "heading": "16. Canonical Data Versus Derived Representations",
+          "start": 37810,
+          "end": 38911,
+          "sha256": "c7ecd1a9fc4c350ba248cee4c3be4244b2620f92debe66c8e2d5200f3d3d655b"
+        },
+        {
+          "level": 2,
+          "heading": "17. Production Validation and Regression",
+          "start": 38911,
+          "end": 40505,
+          "sha256": "f607662637044c434d858afe22add2fe196c0b961ce30dafc3ce752b16ef6dfb"
+        },
+        {
+          "level": 3,
+          "heading": "17.1 Pilot Corpus",
+          "start": 39077,
+          "end": 39667,
+          "sha256": "e6d8bfa546e4717f711f6acf9ffa8a39dea02f121eb1c896488ca08a565d81a7"
+        },
+        {
+          "level": 3,
+          "heading": "17.2 What the Pilot Tests",
+          "start": 39667,
+          "end": 40225,
+          "sha256": "46edbf15844970a17cb8e846c86dc1adf4a9dd2896a88433211cd57fc7f8cb94"
+        },
+        {
+          "level": 3,
+          "heading": "17.3 Regression Suite",
+          "start": 40225,
+          "end": 40505,
+          "sha256": "f67dc2c1790ec87280607978436050b4c53a7bda629fdbb3b035f8f38fd2e3ef"
+        },
+        {
+          "level": 2,
+          "heading": "18. Partial Assessments",
+          "start": 40505,
+          "end": 40990,
+          "sha256": "747f087d193c57869a105b1f27e276e55c3eea01096400a9271fbb8e679bf7d7"
+        },
+        {
+          "level": 2,
+          "heading": "19. LLM Application Guidance",
+          "start": 40990,
+          "end": 42748,
+          "sha256": "1266cb91a1827cd004d217a15af9a2e88541f1de93aabb1c1b67bfb5f8bd2835"
+        },
+        {
+          "level": 2,
+          "heading": "20. Explicitly Deferred Physical-Schema Decisions",
+          "start": 42748,
+          "end": 43788,
+          "sha256": "cb3ce6435be939c2011da525b37fc604a399dd5d315c99f6c4a80d84de53a2af"
+        },
+        {
+          "level": 2,
+          "heading": "21. Conceptual AdventureFinder Data Flow",
+          "start": 43788,
+          "end": 44598,
+          "sha256": "c76e5e5bde8e6cccdf2a63334ee1f2a938ea40f8d7d23f1d73d7af06d06be54c"
+        },
+        {
+          "level": 2,
+          "heading": "22. Minimum Conditions for a Canonical Production Assessment",
+          "start": 44598,
+          "end": 45816,
+          "sha256": "82b6a8cadb4b7d8619ad59a8873cda41a970d25ab6de3ea80d4f4a99898e8649"
+        },
+        {
+          "level": 2,
+          "heading": "23. Relationship to Future Recommendation Systems",
+          "start": 45816,
+          "end": 46675,
+          "sha256": "793f1c20810d04db4f232eaf9e61ea5a59b7e84c1716e204d9f5324193907122"
+        },
+        {
+          "level": 2,
+          "heading": "24. Revision Policy",
+          "start": 46675,
+          "end": 47527,
+          "sha256": "5c376fb6fdcdaea1d26bb135d7cb327e827c9a49ce69fb1031f1babc297202e3"
+        },
+        {
+          "level": 2,
+          "heading": "25. Revision History",
+          "start": 47527,
+          "end": 48244,
+          "sha256": "c802e1a2e1d0550fc2537e5471818da45b9c625323a89c97a6d675b1104bfa5f"
+        }
+      ],
+      "prompt_sections": [
+        {
+          "level": 2,
+          "heading": "3. Governing Principles",
+          "start": 3802,
+          "end": 7223,
+          "sha256": "ecd52a03a8ac620da873caf1cb09b41f9c69db7d60f78d79bfd901720eee8b7c"
+        },
+        {
+          "level": 2,
+          "heading": "6. Assessment States and Null Semantics",
+          "start": 12371,
+          "end": 13270,
+          "sha256": "26102e26eb25a9bfeded51081add166f9fff2a2a076b96d83367cc967c3f5c0f"
+        },
+        {
+          "level": 2,
+          "heading": "7. Source Basis and Evidence Requirements",
+          "start": 14428,
+          "end": 17571,
+          "sha256": "8a9edb0299136c0bf64acfe6e2ff8c55a90af90050b4adadf8d0c6a9debbbc5d"
+        },
+        {
+          "level": 2,
+          "heading": "8. Production Assessment Protocol",
+          "start": 17571,
+          "end": 24823,
+          "sha256": "c519c1702aab18a7a051684abc9269b40f442dab4e2958ed09f6d251c9d637da"
+        },
+        {
+          "level": 2,
+          "heading": "9. Confidence Guidance",
+          "start": 24823,
+          "end": 26834,
+          "sha256": "8a8c6455e42cad0d8255d9984c1e5107fb7cd775df4ffcd4efa6200a0d2d9c3c"
+        },
+        {
+          "level": 2,
+          "heading": "10. Path-Sensitivity Guidance",
+          "start": 26834,
+          "end": 28557,
+          "sha256": "14c2488955f76b8bf8be112fd103491c03028a07dcc2908e9dbafc358e91e81e"
+        },
+        {
+          "level": 2,
+          "heading": "11. Rationale and Evidence Provenance",
+          "start": 28557,
+          "end": 30028,
+          "sha256": "adb5f5e6c6e6c045186259c003d02ac2335f5c23c686f09a686dc079391b9964"
+        },
+        {
+          "level": 2,
+          "heading": "12. Quality Control and Review Disposition",
+          "start": 30028,
+          "end": 32674,
+          "sha256": "76826b063f59dcf9eb532ef1e396e0e0d820bb35ce464be37b1a90c64a7eab9c"
+        },
+        {
+          "level": 2,
+          "heading": "13. Blindness and Anti-Bias Requirements",
+          "start": 32674,
+          "end": 34219,
+          "sha256": "683a9942cd673385be26edb361caee3bba2caf5cb09ad4ff822d2eb3abea21f3"
+        },
+        {
+          "level": 2,
+          "heading": "19. LLM Application Guidance",
+          "start": 40990,
+          "end": 42748,
+          "sha256": "1266cb91a1827cd004d217a15af9a2e88541f1de93aabb1c1b67bfb5f8bd2835"
+        }
+      ],
+      "version_heading": "0.1"
+    },
+    {
+      "path": "AdventureFinder_Scoring_Calibration_Regression_Guideline_v0.1.md",
+      "version": "v0.1",
+      "mode": "100644",
+      "bytes": 3268,
+      "sha256": "cb4776bd08e28ffcf685a84439dbe0537216f1fc742e60afa70f1f9f271d57db",
+      "sections": [
+        {
+          "level": 1,
+          "heading": "**AdventureFinder Scoring Calibration & Regression Guideline**",
+          "start": 0,
+          "end": 345,
+          "sha256": "f39c7c366d7217955dd8c0dd07a9dc78b72642e54fd93efa5e2d58a4c1a004b5"
+        },
+        {
+          "level": 1,
+          "heading": "**Core Rules**",
+          "start": 345,
+          "end": 2304,
+          "sha256": "ea62161dd7f9085db2f22e5aeb9a62e04999e7d2f13e0f17e8ed5ac98d0b129d"
+        },
+        {
+          "level": 1,
+          "heading": "**Default Calibration Flow**",
+          "start": 2304,
+          "end": 2811,
+          "sha256": "0ba5d31428c80ef9d781cd40b869c3d6964c7d78445aed7d271385ace4112282"
+        },
+        {
+          "level": 1,
+          "heading": "**Decision Standard**",
+          "start": 2811,
+          "end": 3268,
+          "sha256": "f3645fca31fc7111fab13d5b4ed64d822b537a1a075b9b0dc6a7db2776cb4144"
+        }
+      ]
+    },
+    {
+      "path": "AdventureFinder_Runtime_Ownership_Architecture_v0.3.md",
+      "version": "v0.3",
+      "mode": "100644",
+      "bytes": 20409,
+      "sha256": "5f2ed3125b6cda5a1cb32d5bc0ba73e17ab4598966ad37188645e475258fffd6",
+      "sections": [
+        {
+          "level": 1,
+          "heading": "AdventureFinder Runtime Ownership Architecture v0.3",
+          "start": 0,
+          "end": 20409,
+          "sha256": "5f2ed3125b6cda5a1cb32d5bc0ba73e17ab4598966ad37188645e475258fffd6"
+        },
+        {
+          "level": 2,
+          "heading": "Ownership",
+          "start": 2353,
+          "end": 5708,
+          "sha256": "1cff6af6c2a9f60f0c05d048837822aca8ae81e8a8cb0afd8c36c3aef05c0a15"
+        },
+        {
+          "level": 2,
+          "heading": "Production architecture",
+          "start": 5708,
+          "end": 7847,
+          "sha256": "eee419f3444a4ff4200ae1ed647bd63dd21a86b19c910246763966ce6fb6da0b"
+        },
+        {
+          "level": 2,
+          "heading": "LOW observational publication",
+          "start": 7847,
+          "end": 8454,
+          "sha256": "cd2edf8c4357ea8fdced18bb7ca05c8951008a344c5f1a1fbfd5e41751c916a4"
+        },
+        {
+          "level": 2,
+          "heading": "Local worker identity and capability truth",
+          "start": 8454,
+          "end": 9907,
+          "sha256": "0845eec93311ef6c55923790f08a9f53c60f319f0592d007c4b81ff1a341ea57"
+        },
+        {
+          "level": 2,
+          "heading": "Per-attempt path",
+          "start": 9907,
+          "end": 11398,
+          "sha256": "2f20d8fd29d506da37219cb614d8f963c845274e758804d4dd049699ed4227f9"
+        },
+        {
+          "level": 2,
+          "heading": "Worker continuity and loss",
+          "start": 11398,
+          "end": 12080,
+          "sha256": "cdb16bbc31859f16559d67136f21a4e2176c14d7cf3afd2ff47916f86967d080"
+        },
+        {
+          "level": 2,
+          "heading": "Paid-capacity safety",
+          "start": 12080,
+          "end": 13698,
+          "sha256": "9910771ee74c0b6477ce663856ad2faede472bded9a773a8b25acd91ee039597"
+        },
+        {
+          "level": 2,
+          "heading": "Operator process ownership and human control",
+          "start": 13698,
+          "end": 16253,
+          "sha256": "2373ec742e8554f6c0afdcf210938ba0720dbd87ee12bc9999828f3cceb9bbf7"
+        },
+        {
+          "level": 2,
+          "heading": "Capability requests and AF front-door composition",
+          "start": 16253,
+          "end": 17607,
+          "sha256": "1bfb774fa91d134feef2de46904f30448452d86fa48dd5631062d4d014af305f"
+        },
+        {
+          "level": 2,
+          "heading": "Registry composition boundary",
+          "start": 17607,
+          "end": 19256,
+          "sha256": "9268fab14916458c9bf151610ed12b21a5913e2bde6ad5dd3065d98e05fa0c5f"
+        },
+        {
+          "level": 2,
+          "heading": "Compatibility boundary",
+          "start": 19256,
+          "end": 20409,
+          "sha256": "9e29154137507455c83e62ef9dad5d04c11760695a3a9d595ab39c67b5eaf521"
+        }
+      ]
+    },
+    {
+      "path": "AdventureFinder_Local_Model_Artifact_Identity_v1.0.md",
+      "version": "Version 1.0 — ACTIVE",
+      "mode": "100644",
+      "bytes": 7902,
+      "sha256": "1725332c3d2f59d92844607000fbe6676f8b627bb7077aac3cf90623102daad3",
+      "sections": [
+        {
+          "level": 1,
+          "heading": "AdventureFinder Local Model Artifact Identity",
+          "start": 0,
+          "end": 7902,
+          "sha256": "1725332c3d2f59d92844607000fbe6676f8b627bb7077aac3cf90623102daad3"
+        },
+        {
+          "level": 2,
+          "heading": "Version 1.0 — ACTIVE",
+          "start": 49,
+          "end": 221,
+          "sha256": "44d183daaebacd7948401f38410ce9912076e5419870eab602b915d85565e01d"
+        },
+        {
+          "level": 2,
+          "heading": "1. Purpose",
+          "start": 221,
+          "end": 974,
+          "sha256": "b4ad4121cd1604f63cf028bbb30a6b491ad293672a069445b3360d5203929591"
+        },
+        {
+          "level": 2,
+          "heading": "2. Identity fields",
+          "start": 974,
+          "end": 2458,
+          "sha256": "818540d89bb3e255601be0d18294a464800afc90d8d1ca53c3cd204be30d9468"
+        },
+        {
+          "level": 3,
+          "heading": "2.1 `ollama_model`",
+          "start": 1053,
+          "end": 1446,
+          "sha256": "e152c47b65d6886d51570766ed21610f4161da467a7a1c1113f9213fc9fe0c46"
+        },
+        {
+          "level": 3,
+          "heading": "2.2 `pull_model`",
+          "start": 1446,
+          "end": 1811,
+          "sha256": "8a070c22765b7d76ad1d8d4cde4a00158f4a54dd04a84213fef3bdaa427a010c"
+        },
+        {
+          "level": 3,
+          "heading": "2.3 `qualified_manifest_sha256`",
+          "start": 1811,
+          "end": 2458,
+          "sha256": "e22d0f49c4e252b541d00d26cf1626ebdba0f5fefe7ade07d7aceff01ec7a31c"
+        },
+        {
+          "level": 2,
+          "heading": "3. Qualified artifact registry",
+          "start": 2458,
+          "end": 3983,
+          "sha256": "7ba15f5e7000377158513e6504ca44591ce77d5d5d82bb512ea0949918e0cee8"
+        },
+        {
+          "level": 2,
+          "heading": "4. Required verification behavior",
+          "start": 3983,
+          "end": 4842,
+          "sha256": "fcbf8224909a2c21d109dc176481db6ffd14fed83410c7b70e95e83e6fcee29b"
+        },
+        {
+          "level": 2,
+          "heading": "5. Artifact changes and requalification",
+          "start": 4842,
+          "end": 5476,
+          "sha256": "55acddbd30260e91f4fed825efd02c0551931a4e26d34cedc67d4709aafae80b"
+        },
+        {
+          "level": 2,
+          "heading": "6. Repository ownership",
+          "start": 5476,
+          "end": 6820,
+          "sha256": "0b385c312b19dd1a466e1de9ebea7b1adec8ddcc2eb37eb033f51fb49d1c4632"
+        },
+        {
+          "level": 3,
+          "heading": "Normative definition — `md-specification-files`",
+          "start": 5504,
+          "end": 5688,
+          "sha256": "f7a958b0d934c121ea70350a64557ef509156dbd747dfcf95a12f7474b973f3c"
+        },
+        {
+          "level": 3,
+          "heading": "Machine-readable source of truth — `af-workloads` (AFW)",
+          "start": 5688,
+          "end": 6252,
+          "sha256": "872a97d4c4ebba39f1ac5da4f7749aef11b4fbe39d9012370ee72ede7505e8ba"
+        },
+        {
+          "level": 3,
+          "heading": "Remote enforcement — `runpod-ollama-fleet` (RPOF)",
+          "start": 6252,
+          "end": 6547,
+          "sha256": "3142f95e872f1a3120aef67313aabf1657b22022f78cd8e128634292fd5fbad1"
+        },
+        {
+          "level": 3,
+          "heading": "Scoring runtime — `af-cli-scoring-utility`",
+          "start": 6547,
+          "end": 6820,
+          "sha256": "022dc7e8a91b3d1841d50643147d514c719b9343dab2dd42bd173fcf9dc3d8bb"
+        },
+        {
+          "level": 2,
+          "heading": "7. Measurement and audit",
+          "start": 6820,
+          "end": 7315,
+          "sha256": "4897b8d42ad13084813300afd990a98861c2af31227c31b539e306dae4e3694b"
+        },
+        {
+          "level": 2,
+          "heading": "8. Change control",
+          "start": 7315,
+          "end": 7902,
+          "sha256": "ff653235254a28827f9e990a72dba58868dec528ab0cbde1d52f135817429d32"
+        }
+      ]
+    },
+    {
+      "path": "AdventureFinder_Phase4_Local_Model_Acceptance_Contract_v0.1.md",
+      "version": "Version 0.1 — FROZEN",
+      "mode": "100644",
+      "bytes": 14361,
+      "sha256": "d0b7d5b595c148701e35eee7690fe18317cc873ebe2584c8410510fe4cf80652",
+      "sections": [
+        {
+          "level": 1,
+          "heading": "AdventureFinder Phase-4 Local-Model Acceptance Contract",
+          "start": 0,
+          "end": 14361,
+          "sha256": "d0b7d5b595c148701e35eee7690fe18317cc873ebe2584c8410510fe4cf80652"
+        },
+        {
+          "level": 2,
+          "heading": "Version 0.1 — FROZEN",
+          "start": 59,
+          "end": 251,
+          "sha256": "dbdf2c23709cbfe930555887ac0d1ac477377ea024c8f031d31f9262c32fd822"
+        },
+        {
+          "level": 2,
+          "heading": "1. Purpose",
+          "start": 251,
+          "end": 912,
+          "sha256": "eebdf74ffe2a8e8a814b6767d4f040d49195885f445d42466cecf1cfaa2da2c1"
+        },
+        {
+          "level": 2,
+          "heading": "2. Governing frozen material",
+          "start": 912,
+          "end": 1694,
+          "sha256": "4b162694dfc0e537a92ee7e145952dae9d10f96cdec8d37d5fdbc517063a3005"
+        },
+        {
+          "level": 2,
+          "heading": "3. Evidence hierarchy",
+          "start": 1694,
+          "end": 2525,
+          "sha256": "19771bc20f8c6afabbc257d9341d76f05377ad60cf37af0b3d9c39a56cda8ad7"
+        },
+        {
+          "level": 3,
+          "heading": "Tier A — Direct local-model evidence",
+          "start": 1720,
+          "end": 1867,
+          "sha256": "db37eba658399765ec0b9f953fbeead5ddd587f8111663bfe02ebce8796dbbb7"
+        },
+        {
+          "level": 3,
+          "heading": "Tier B — Accepted Terra calibration evidence",
+          "start": 1867,
+          "end": 2326,
+          "sha256": "7cd860a66e0995204fb11d187e6ff523dd0e59678788461a2f86f30ca469a57f"
+        },
+        {
+          "level": 3,
+          "heading": "Tier C — Product-impact evidence",
+          "start": 2326,
+          "end": 2525,
+          "sha256": "eecda44f91736e6f7715fb2ad224652c2f8ee0026dc0a251fa7ed1347e58d98d"
+        },
+        {
+          "level": 2,
+          "heading": "4. Terra comparator record",
+          "start": 2525,
+          "end": 3320,
+          "sha256": "77bd5f8b3cbec7a839435540d8c7ac51fb7d69bcde17f72984dd9d720c16a6fd"
+        },
+        {
+          "level": 2,
+          "heading": "5. Error classes for the 17 interpretive 1–5 dimensions",
+          "start": 3320,
+          "end": 4532,
+          "sha256": "8499875fa92a96b11b0bf6700ebd5ac7f30ff838ddba337703f24e125bd7b915"
+        },
+        {
+          "level": 3,
+          "heading": "5.1 Exact",
+          "start": 3382,
+          "end": 3448,
+          "sha256": "a3081a8a2174c9815cbe295fd3b448b49e3a36376c086821148a71b9325b351b"
+        },
+        {
+          "level": 3,
+          "heading": "5.2 Adjacent",
+          "start": 3448,
+          "end": 3654,
+          "sha256": "0a4f3ed633c38c73bca3db35f6e45373cad2b5c0e49a7870f316ecc0ec940ec5"
+        },
+        {
+          "level": 3,
+          "heading": "5.3 Non-adjacent / hard score error",
+          "start": 3654,
+          "end": 3808,
+          "sha256": "e1d9b07549fe4dc91da7e13863d213143580f9f7d210fc8dbb69c336222a7ec0"
+        },
+        {
+          "level": 3,
+          "heading": "5.4 Serious qualitative failure",
+          "start": 3808,
+          "end": 4532,
+          "sha256": "2fb1e6acbc68d7f2381481f8e6dffb81d9861eed01681ddd20519252ccebf567"
+        },
+        {
+          "level": 2,
+          "heading": "6. Phase-4 tiny-audition gate",
+          "start": 4532,
+          "end": 6083,
+          "sha256": "f084e3cc99337496ba9407e5ee28dda5f446ee1af574d384e8ed10c92f6ff0d6"
+        },
+        {
+          "level": 3,
+          "heading": "6.1 Tiny-audition outcomes",
+          "start": 5066,
+          "end": 5898,
+          "sha256": "065a78117729700ad570bcc252c60f07deadfc7911f402604944b861335f3e1c"
+        },
+        {
+          "level": 3,
+          "heading": "6.2 Important rule",
+          "start": 5898,
+          "end": 6083,
+          "sha256": "94e0f250b0faa182f63f87db3b31900712486df9db639e0bb7ac9ca294d48894"
+        },
+        {
+          "level": 2,
+          "heading": "7. Final local-production qualification for interpretive dimensions",
+          "start": 6083,
+          "end": 8464,
+          "sha256": "7cdc46a62b729a16b436653be4576dd3a457f1fb77eea0f1dbb7d9607a723be9"
+        },
+        {
+          "level": 3,
+          "heading": "7.1 Mandatory integrity gates",
+          "start": 6281,
+          "end": 6611,
+          "sha256": "d963c2c77bc5004c58065576657f85358f1ce9711b9e4d58f9f48cf8ec9db1b1"
+        },
+        {
+          "level": 3,
+          "heading": "7.2 Severe-error non-inferiority",
+          "start": 6611,
+          "end": 7124,
+          "sha256": "3c945fa11ec6e54e34d91df75dd813016e1d5a9239fe5cd5d9651373a2050cd9"
+        },
+        {
+          "level": 3,
+          "heading": "7.3 Adjacent-error tolerance",
+          "start": 7124,
+          "end": 7885,
+          "sha256": "198f902c25ce6c6ecfd847b0a6bfbfe4255dd053ba2fa3572dea67669e409adf"
+        },
+        {
+          "level": 3,
+          "heading": "7.4 Boundary-bias flag",
+          "start": 7885,
+          "end": 8464,
+          "sha256": "b9971235d9eac33da26e3104bbd389df0c230b6d90274b978c92e952e3b3ca74"
+        },
+        {
+          "level": 2,
+          "heading": "8. Product-impact adjudication",
+          "start": 8464,
+          "end": 9141,
+          "sha256": "233198a38d72b7275c0cce6bf01d33653c82cc2a0077310af6044d61bbc44b3d"
+        },
+        {
+          "level": 2,
+          "heading": "9. Catalog dimensions: # of Sessions and Levels",
+          "start": 9141,
+          "end": 10038,
+          "sha256": "88d5310ab212d2ebe401927d2c73eeec7feca7b7ec32b642ee48905ca1d53abd"
+        },
+        {
+          "level": 2,
+          "heading": "10. Cost discipline and escalation",
+          "start": 10038,
+          "end": 10779,
+          "sha256": "89b9e687003063a95f968d9ca35a394b326bcac60cf45fd22aa03af7363cb758"
+        },
+        {
+          "level": 2,
+          "heading": "11. Frozen result vocabulary",
+          "start": 10779,
+          "end": 11710,
+          "sha256": "3b2e3fed65d127628b9ca73235a94a058c39f36ec6167e7752acbf41f7cc9a72"
+        },
+        {
+          "level": 2,
+          "heading": "12. Retroactive classification of evidence gathered before this freeze",
+          "start": 11710,
+          "end": 13557,
+          "sha256": "fd79a02c2088e9c591ebda94db62e9e387a56799de1b7f811e031eed7404abe7"
+        },
+        {
+          "level": 3,
+          "heading": "Tactical Complexity — qwen3.6:35b-a3b",
+          "start": 11898,
+          "end": 12301,
+          "sha256": "8e51cb7834fa5f6d8191f0d56a8a7dced20c184916ab0406d8ffb73bfc4f3329"
+        },
+        {
+          "level": 3,
+          "heading": "Darkness / Horror Intensity — qwen3.6:35b-a3b",
+          "start": 12301,
+          "end": 13105,
+          "sha256": "ed5dcbeb6a0e0d313408e93ecaa6e4fef3cbed42c49bfb99553a6518639943b5"
+        },
+        {
+          "level": 3,
+          "heading": "Rules / System-Mastery Demand — current tested local pool",
+          "start": 13105,
+          "end": 13557,
+          "sha256": "8754ed5f664ec41adb521eb467930514ef74880863708bafaa8f7672a41867db"
+        },
+        {
+          "level": 2,
+          "heading": "13. Change control",
+          "start": 13557,
+          "end": 13895,
+          "sha256": "deabbec2076f0b6750e6464ded333ea8bb2e8b657914910f4a046e9b071601d8"
+        },
+        {
+          "level": 2,
+          "heading": "14. Source basis",
+          "start": 13895,
+          "end": 14361,
+          "sha256": "437d1c5414f86c7557ecf9cc912bb861bb72ee6004bb479be1b2a4db60f039af"
+        }
+      ]
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "bytes": 1205,
+      "sha256": "f88885ba4c505a17cc766a113429b3203ee3736e2b26dbcfe26c928019bf7758"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "bytes": 1069,
+      "sha256": "b90876001c57474ed4004a4fa233929fed8b019075d7ac543d854a27e0c71e20"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "bytes": 4917,
+      "sha256": "9aa5d847e13383f6d4d524ed8d4ccfab753e48a9c19c898ef445569e71fb6bbd"
+    }
+  ]
+}
